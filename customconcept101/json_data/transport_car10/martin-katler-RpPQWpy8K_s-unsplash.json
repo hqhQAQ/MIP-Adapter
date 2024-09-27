@@ -1,0 +1,20 @@
+{
+    "caption": "arafed volkswagen car parked on the side of the road in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.91,
+            "box": [
+                146.1328582763672,
+                347.96563720703125,
+                647.2333374023438,
+                741.5145874023438
+            ]
+        }
+    ]
+}

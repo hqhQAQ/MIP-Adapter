@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is standing on a leash outside",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.96,
+            "box": [
+                60.323760986328125,
+                167.0621337890625,
+                565.8011474609375,
+                799.0782470703125
+            ]
+        }
+    ]
+}

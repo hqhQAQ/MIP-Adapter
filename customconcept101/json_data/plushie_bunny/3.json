@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear that is sitting on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bunny",
+            "logit": 0.9,
+            "box": [
+                175.2122039794922,
+                62.64959716796875,
+                607.4619750976562,
+                786.2426147460938
+            ]
+        }
+    ]
+}

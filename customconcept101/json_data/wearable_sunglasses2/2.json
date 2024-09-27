@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of glasses sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sunglasses",
+            "logit": 0.94,
+            "box": [
+                37.457183837890625,
+                193.91439819335938,
+                778.8221435546875,
+                486.0382385253906
+            ]
+        }
+    ]
+}

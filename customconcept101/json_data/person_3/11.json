@@ -1,0 +1,20 @@
+{
+    "caption": "smiling man in sunglasses and a hat taking a selfie",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.89,
+            "box": [
+                0.929656982421875,
+                88.90792846679688,
+                759.302978515625,
+                799.46826171875
+            ]
+        }
+    ]
+}

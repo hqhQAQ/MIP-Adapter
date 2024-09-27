@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pink teddy bear sitting on a book on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink",
+            "logit": 0.41,
+            "box": [
+                197.60488891601562,
+                73.47085571289062,
+                673.0845947265625,
+                644.0628662109375
+            ]
+        }
+    ]
+}

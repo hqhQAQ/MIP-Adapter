@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white flower with yellow stamens on a tree",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.41,
+            "box": [
+                227.36209106445312,
+                175.76040649414062,
+                775.3555908203125,
+                719.347412109375
+            ]
+        }
+    ]
+}

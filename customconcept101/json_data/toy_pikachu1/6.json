@@ -1,0 +1,20 @@
+{
+    "caption": "there is a blue and yellow dragon statue on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pikachu",
+            "logit": 0.61,
+            "box": [
+                112.73159790039062,
+                205.84677124023438,
+                602.3045654296875,
+                746.9771728515625
+            ]
+        }
+    ]
+}

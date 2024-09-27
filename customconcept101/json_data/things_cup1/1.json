@@ -1,0 +1,20 @@
+{
+    "caption": "there is a green cup sitting on a table next to a laptop",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.93,
+            "box": [
+                152.31515502929688,
+                95.89398193359375,
+                737.34619140625,
+                706.5857543945312
+            ]
+        }
+    ]
+}

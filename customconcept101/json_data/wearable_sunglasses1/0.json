@@ -1,0 +1,20 @@
+{
+    "caption": "sunglasses and case on a table with a brown case",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sunglasses",
+            "logit": 0.93,
+            "box": [
+                271.339599609375,
+                367.2500915527344,
+                665.2305908203125,
+                633.1630859375
+            ]
+        }
+    ]
+}

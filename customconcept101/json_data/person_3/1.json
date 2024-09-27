@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man taking a selfie on a boat in the water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.91,
+            "box": [
+                0.102996826171875,
+                127.79721069335938,
+                556.6328125,
+                799.510986328125
+            ]
+        }
+    ]
+}

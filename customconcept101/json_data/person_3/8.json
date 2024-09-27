@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man taking a selfie of the sun setting over the water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.9,
+            "box": [
+                0.598876953125,
+                234.1190185546875,
+                585.2972412109375,
+                799.3646240234375
+            ]
+        }
+    ]
+}

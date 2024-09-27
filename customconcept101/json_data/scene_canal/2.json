@@ -1,0 +1,20 @@
+{
+    "caption": "arafed view of a city with a clock tower and a river",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "canal",
+            "logit": 0.85,
+            "box": [
+                1.45892333984375,
+                574.9363403320312,
+                1064.32763671875,
+                798.54296875
+            ]
+        }
+    ]
+}

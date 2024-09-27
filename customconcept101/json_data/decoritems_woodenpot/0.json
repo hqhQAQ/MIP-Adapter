@@ -1,0 +1,20 @@
+{
+    "caption": "there is a vase that is sitting on a table next to a laptop",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "woodenpot",
+            "logit": 0.93,
+            "box": [
+                137.26828002929688,
+                59.52783203125,
+                686.5526123046875,
+                755.9263916015625
+            ]
+        }
+    ]
+}

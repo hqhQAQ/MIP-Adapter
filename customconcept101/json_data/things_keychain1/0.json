@@ -1,0 +1,31 @@
+{
+    "caption": "anime two keychain with a picture of a boy with blonde hair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "keychain",
+            "logit": 0.42,
+            "box": [
+                340.3204345703125,
+                0.634979248046875,
+                614.7740478515625,
+                357.1717224121094
+            ]
+        },
+        {
+            "value": 2,
+            "label": "keychain",
+            "logit": 0.34,
+            "box": [
+                178.1954803466797,
+                1.483367919921875,
+                616.36328125,
+                787.7847900390625
+            ]
+        }
+    ]
+}

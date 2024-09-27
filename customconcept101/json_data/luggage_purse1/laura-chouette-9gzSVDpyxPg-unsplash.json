@@ -1,0 +1,20 @@
+{
+    "caption": "woman in black coat and red purse on street talking on cell phone",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.42,
+            "box": [
+                216.06900024414062,
+                -0.495025634765625,
+                671.6845703125,
+                633.964599609375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a large teddy bear made out of sand in a garden",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bear",
+            "logit": 0.86,
+            "box": [
+                125.3970947265625,
+                18.259979248046875,
+                615.40869140625,
+                759.0223388671875
+            ]
+        }
+    ]
+}

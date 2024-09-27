@@ -1,0 +1,20 @@
+{
+    "caption": "there is a guitar shaped like a guitar on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.87,
+            "box": [
+                211.28492736816406,
+                30.936676025390625,
+                533.8753051757812,
+                762.225341796875
+            ]
+        }
+    ]
+}

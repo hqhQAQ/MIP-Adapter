@@ -1,0 +1,20 @@
+{
+    "caption": "guitar with a picture of a cat on it on a blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.82,
+            "box": [
+                267.02886962890625,
+                8.197265625,
+                581.0936279296875,
+                788.7852172851562
+            ]
+        }
+    ]
+}

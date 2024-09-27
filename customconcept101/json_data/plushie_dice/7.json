@@ -1,0 +1,31 @@
+{
+    "caption": "there are two pink two dice on a metal plate with a clock on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.66,
+            "box": [
+                243.60015869140625,
+                364.994140625,
+                578.5765991210938,
+                682.9212646484375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.55,
+            "box": [
+                408.70263671875,
+                184.6373748779297,
+                649.2783203125,
+                436.22979736328125
+            ]
+        }
+    ]
+}

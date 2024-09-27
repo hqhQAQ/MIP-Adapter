@@ -1,0 +1,20 @@
+{
+    "caption": "there is a close up of a toilet with a black handle",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "corkscrew",
+            "logit": 0.46,
+            "box": [
+                93.9420166015625,
+                166.5074462890625,
+                779.39599609375,
+                665.6713256835938
+            ]
+        }
+    ]
+}

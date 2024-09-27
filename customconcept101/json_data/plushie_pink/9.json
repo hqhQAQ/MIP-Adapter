@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two pink stuffed animal sitting on a couch",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink",
+            "logit": 0.53,
+            "box": [
+                121.14801025390625,
+                130.44137573242188,
+                583.3218383789062,
+                660.162841796875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "pink",
+            "logit": 0.25,
+            "box": [
+                163.28919982910156,
+                130.341796875,
+                584.7042236328125,
+                373.7070617675781
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a guitar that is sitting on a bed near a window",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.83,
+            "box": [
+                265.9790954589844,
+                11.595703125,
+                492.8246765136719,
+                872.6768798828125
+            ]
+        }
+    ]
+}

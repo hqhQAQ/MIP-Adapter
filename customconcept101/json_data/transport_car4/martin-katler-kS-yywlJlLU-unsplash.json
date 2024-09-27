@@ -1,0 +1,20 @@
+{
+    "caption": "arafed white car parked on a dirt road near a fence",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.95,
+            "box": [
+                242.223388671875,
+                322.54351806640625,
+                563.9739990234375,
+                591.0895385742188
+            ]
+        }
+    ]
+}

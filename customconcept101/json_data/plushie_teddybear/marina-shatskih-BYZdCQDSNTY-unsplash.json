@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear sitting on a wooden fence",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "teddybear",
+            "logit": 0.89,
+            "box": [
+                138.26292419433594,
+                43.39971923828125,
+                612.779541015625,
+                774.4658203125
+            ]
+        }
+    ]
+}

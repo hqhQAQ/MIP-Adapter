@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two cup that is sitting in the refrigerator",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.79,
+            "box": [
+                162.97000122070312,
+                53.304168701171875,
+                596.8580322265625,
+                721.8173828125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "cup",
+            "logit": 0.28,
+            "box": [
+                504.44940185546875,
+                0.0600738525390625,
+                799.164306640625,
+                348.056640625
+            ]
+        }
+    ]
+}

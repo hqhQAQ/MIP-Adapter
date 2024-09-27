@@ -1,0 +1,20 @@
+{
+    "caption": "there is a helmet on the back of a motorcycle with a helmet on",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "helmet",
+            "logit": 0.93,
+            "box": [
+                274.4308776855469,
+                378.9455871582031,
+                636.9747314453125,
+                687.8065185546875
+            ]
+        }
+    ]
+}

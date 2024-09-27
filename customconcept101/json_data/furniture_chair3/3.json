@@ -1,0 +1,20 @@
+{
+    "caption": "there is a couch that has two pillows on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.69,
+            "box": [
+                15.4071044921875,
+                17.120208740234375,
+                795.4512329101562,
+                793.522216796875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of glasses on a laptop keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sunglasses",
+            "logit": 0.94,
+            "box": [
+                2.522918701171875,
+                126.1312026977539,
+                764.50048828125,
+                381.7008056640625
+            ]
+        }
+    ]
+}

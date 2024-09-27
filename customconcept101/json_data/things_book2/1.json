@@ -1,0 +1,31 @@
+{
+    "caption": "a close up of a two book on a couch with a tree in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.43,
+            "box": [
+                270.7339172363281,
+                144.88763427734375,
+                641.2757568359375,
+                308.71142578125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "book",
+            "logit": 0.39,
+            "box": [
+                160.75079345703125,
+                55.327301025390625,
+                704.4808349609375,
+                754.2247314453125
+            ]
+        }
+    ]
+}

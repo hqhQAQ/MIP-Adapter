@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man in a gray jacket standing in front of a stone wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                12.630218505859375,
+                71.54669189453125,
+                779.0389404296875,
+                798.9367065429688
+            ]
+        }
+    ]
+}

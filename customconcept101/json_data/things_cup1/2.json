@@ -1,0 +1,20 @@
+{
+    "caption": "someone is holding a green cup in their hand in front of a fan",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.96,
+            "box": [
+                192.99192810058594,
+                209.04995727539062,
+                663.341796875,
+                760.449462890625
+            ]
+        }
+    ]
+}

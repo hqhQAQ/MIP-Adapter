@@ -1,0 +1,31 @@
+{
+    "caption": "a close up of a two book on a carpet with a tree in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.62,
+            "box": [
+                94.70089721679688,
+                64.44903564453125,
+                673.20751953125,
+                773.4093017578125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "book",
+            "logit": 0.28,
+            "box": [
+                203.57481384277344,
+                138.45303344726562,
+                579.5805053710938,
+                250.9749298095703
+            ]
+        }
+    ]
+}

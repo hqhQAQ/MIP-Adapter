@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a red purse on a bed with a chain",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.53,
+            "box": [
+                86.3394775390625,
+                289.64910888671875,
+                799.0559692382812,
+                986.5792846679688
+            ]
+        }
+    ]
+}

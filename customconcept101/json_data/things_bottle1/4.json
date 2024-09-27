@@ -1,0 +1,20 @@
+{
+    "caption": "there is a bottle with a handle on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bottle",
+            "logit": 0.48,
+            "box": [
+                208.1866912841797,
+                107.38650512695312,
+                591.9149780273438,
+                791.8126220703125
+            ]
+        }
+    ]
+}

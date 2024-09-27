@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black dog laying on the ground with a leash",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.88,
+            "box": [
+                1.08892822265625,
+                9.923919677734375,
+                798.3630981445312,
+                797.99267578125
+            ]
+        }
+    ]
+}

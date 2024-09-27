@@ -1,0 +1,20 @@
+{
+    "caption": "arafed bmw car parked on a cobblestone street in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                178.14105224609375,
+                517.6015014648438,
+                614.74169921875,
+                741.7195434570312
+            ]
+        }
+    ]
+}

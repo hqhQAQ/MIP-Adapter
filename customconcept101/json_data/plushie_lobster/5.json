@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is sitting on a metal surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lobster",
+            "logit": 0.4,
+            "box": [
+                125.86923217773438,
+                187.3668212890625,
+                678.8184814453125,
+                701.64111328125
+            ]
+        }
+    ]
+}

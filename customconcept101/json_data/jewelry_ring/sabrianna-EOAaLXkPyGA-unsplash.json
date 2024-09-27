@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pink diamond ring with a diamond band",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "ring",
+            "logit": 0.28,
+            "box": [
+                266.64697265625,
+                235.5259246826172,
+                535.154541015625,
+                585.9666137695312
+            ]
+        }
+    ]
+}

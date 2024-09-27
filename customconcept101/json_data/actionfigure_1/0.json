@@ -1,0 +1,31 @@
+{
+    "caption": "there is a figurine of a man with a sword on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.44,
+            "box": [
+                180.31085205078125,
+                18.336883544921875,
+                697.8343505859375,
+                668.9176025390625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "actionfigure",
+            "logit": 0.26,
+            "box": [
+                206.68209838867188,
+                14.223365783691406,
+                580.7626953125,
+                260.3121643066406
+            ]
+        }
+    ]
+}

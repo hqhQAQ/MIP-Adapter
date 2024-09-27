@@ -1,0 +1,20 @@
+{
+    "caption": "guitar sitting on a tiled floor next to a black amp",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.65,
+            "box": [
+                23.7535400390625,
+                3.11859130859375,
+                702.9303588867188,
+                975.7908935546875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow bag with a picture of an elephant on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bottle",
+            "logit": 0.72,
+            "box": [
+                240.37130737304688,
+                124.57540893554688,
+                551.879150390625,
+                695.704833984375
+            ]
+        }
+    ]
+}

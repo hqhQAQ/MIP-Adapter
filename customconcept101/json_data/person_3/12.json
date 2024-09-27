@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man that is smiling and posing for a picture",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.9,
+            "box": [
+                0.759735107421875,
+                64.18927001953125,
+                773.9715576171875,
+                799.3739013671875
+            ]
+        }
+    ]
+}

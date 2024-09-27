@@ -1,0 +1,31 @@
+{
+    "caption": "there are two pairs of two earrings that are sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.61,
+            "box": [
+                368.03363037109375,
+                128.05856323242188,
+                517.9614868164062,
+                688.04931640625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "earring",
+            "logit": 0.6,
+            "box": [
+                146.76634216308594,
+                191.37628173828125,
+                288.16204833984375,
+                766.792236328125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small purse with a strap on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.45,
+            "box": [
+                1.076507568359375,
+                1.031768798828125,
+                643.0155029296875,
+                603.903564453125
+            ]
+        }
+    ]
+}

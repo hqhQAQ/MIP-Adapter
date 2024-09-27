@@ -1,0 +1,20 @@
+{
+    "caption": "there is a toy that is sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pikachu",
+            "logit": 0.55,
+            "box": [
+                69.18341064453125,
+                11.622772216796875,
+                706.0896606445312,
+                769.50927734375
+            ]
+        }
+    ]
+}

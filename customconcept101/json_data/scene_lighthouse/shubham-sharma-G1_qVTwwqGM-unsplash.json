@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two lighthouse on a hill with a blue sky in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lighthouse",
+            "logit": 0.67,
+            "box": [
+                195.58001708984375,
+                91.43792724609375,
+                390.1845703125,
+                617.0867309570312
+            ]
+        },
+        {
+            "value": 2,
+            "label": "lighthouse",
+            "logit": 0.33,
+            "box": [
+                12.904129028320312,
+                90.436767578125,
+                390.59979248046875,
+                651.423095703125
+            ]
+        }
+    ]
+}

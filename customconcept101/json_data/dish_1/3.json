@@ -1,0 +1,20 @@
+{
+    "caption": "there is a plate of food that includes meat and potatoes",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dish",
+            "logit": 0.33,
+            "box": [
+                5.81304931640625,
+                101.69805908203125,
+                1064.080810546875,
+                753.1121826171875
+            ]
+        }
+    ]
+}

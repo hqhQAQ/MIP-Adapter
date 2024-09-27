@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear sitting on a rock in the woods",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "teddybear",
+            "logit": 0.9,
+            "box": [
+                145.75515747070312,
+                99.85250854492188,
+                627.06689453125,
+                733.7882080078125
+            ]
+        }
+    ]
+}

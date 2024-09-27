@@ -1,0 +1,20 @@
+{
+    "caption": "waterfall with a bridge over it and a bridge over the water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "waterfall",
+            "logit": 0.47,
+            "box": [
+                258.23046875,
+                361.2645568847656,
+                458.8436279296875,
+                900.9066162109375
+            ]
+        }
+    ]
+}

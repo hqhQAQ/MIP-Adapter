@@ -1,0 +1,20 @@
+{
+    "caption": "someone is holding a small white toy in their hand",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.71,
+            "box": [
+                187.24020385742188,
+                466.574462890625,
+                405.61328125,
+                778.935302734375
+            ]
+        }
+    ]
+}

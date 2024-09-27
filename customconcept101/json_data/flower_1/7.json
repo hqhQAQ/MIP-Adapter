@@ -1,0 +1,31 @@
+{
+    "caption": "a close up of a white two flower with green leaves in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.83,
+            "box": [
+                239.1405487060547,
+                200.20179748535156,
+                547.0540161132812,
+                508.79876708984375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "flower",
+            "logit": 0.28,
+            "box": [
+                42.25486755371094,
+                155.3230743408203,
+                104.80952453613281,
+                260.0709228515625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "puppy sitting in front of a window with a sign that says i nailed puppy shots",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.96,
+            "box": [
+                394.18890380859375,
+                68.75796508789062,
+                678.2557373046875,
+                760.441162109375
+            ]
+        }
+    ]
+}

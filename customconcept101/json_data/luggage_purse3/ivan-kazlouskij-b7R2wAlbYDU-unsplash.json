@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black purse sitting on a dresser next to a lamp",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.91,
+            "box": [
+                68.14981079101562,
+                26.033355712890625,
+                479.9071960449219,
+                590.1065673828125
+            ]
+        }
+    ]
+}

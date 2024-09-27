@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is walking on a wooden deck",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.94,
+            "box": [
+                149.754638671875,
+                83.25152587890625,
+                737.72705078125,
+                657.251953125
+            ]
+        }
+    ]
+}

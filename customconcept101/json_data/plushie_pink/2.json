@@ -1,0 +1,20 @@
+{
+    "caption": "stuffed animal sitting on a computer desk next to a monitor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink",
+            "logit": 0.42,
+            "box": [
+                134.63186645507812,
+                82.46359252929688,
+                633.5447998046875,
+                768.899169921875
+            ]
+        }
+    ]
+}

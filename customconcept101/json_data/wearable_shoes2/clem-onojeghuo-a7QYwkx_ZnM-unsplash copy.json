@@ -1,0 +1,20 @@
+{
+    "caption": "there is a person standing on a sidewalk wearing a pair of boots",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.85,
+            "box": [
+                271.58270263671875,
+                151.02435302734375,
+                711.8652954101562,
+                490.5513916015625
+            ]
+        }
+    ]
+}

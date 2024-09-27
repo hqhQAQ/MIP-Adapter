@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cup that is sitting on the floor next to a heater",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.93,
+            "box": [
+                287.44317626953125,
+                303.8668212890625,
+                536.77685546875,
+                726.780029296875
+            ]
+        }
+    ]
+}

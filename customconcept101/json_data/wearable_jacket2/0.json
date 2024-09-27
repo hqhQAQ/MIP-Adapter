@@ -1,0 +1,20 @@
+{
+    "caption": "arafed woman in a suit and tie standing against a wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.92,
+            "box": [
+                67.59400939941406,
+                1.287811279296875,
+                455.51129150390625,
+                797.911865234375
+            ]
+        }
+    ]
+}

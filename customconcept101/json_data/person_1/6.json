@@ -1,0 +1,31 @@
+{
+    "caption": "arafed man in glasses and a leather jacket standing in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.84,
+            "box": [
+                21.11346435546875,
+                79.06594848632812,
+                709.9833984375,
+                799.2147216796875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "person",
+            "logit": 0.64,
+            "box": [
+                182.68145751953125,
+                398.27276611328125,
+                245.1886444091797,
+                467.8813781738281
+            ]
+        }
+    ]
+}

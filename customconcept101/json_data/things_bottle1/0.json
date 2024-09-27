@@ -1,0 +1,20 @@
+{
+    "caption": "there is a can holder with a bottle on a couch",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bottle",
+            "logit": 0.77,
+            "box": [
+                249.16201782226562,
+                134.6128387451172,
+                497.49603271484375,
+                583.7525024414062
+            ]
+        }
+    ]
+}

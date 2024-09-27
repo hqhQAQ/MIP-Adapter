@@ -1,0 +1,31 @@
+{
+    "caption": "there is a brown two purse hanging on a wall with a white wall behind it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.76,
+            "box": [
+                264.99005126953125,
+                -0.046661376953125,
+                688.1115112304688,
+                719.316650390625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "purse",
+            "logit": 0.25,
+            "box": [
+                263.7840576171875,
+                441.62811279296875,
+                688.2426147460938,
+                719.4951171875
+            ]
+        }
+    ]
+}

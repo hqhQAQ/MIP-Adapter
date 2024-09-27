@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed turtle that is laying on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tortoise",
+            "logit": 0.64,
+            "box": [
+                48.82470703125,
+                152.65248107910156,
+                750.0601196289062,
+                594.2537231445312
+            ]
+        }
+    ]
+}

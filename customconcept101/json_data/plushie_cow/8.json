@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a stuffed animal with a uc shirt on",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cow",
+            "logit": 0.37,
+            "box": [
+                157.18618774414062,
+                182.68902587890625,
+                550.3048095703125,
+                753.9520874023438
+            ]
+        }
+    ]
+}

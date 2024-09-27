@@ -1,0 +1,20 @@
+{
+    "caption": "arafed asian man with a microphone in front of a blue curtain",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                1.241058349609375,
+                91.63021850585938,
+                717.539794921875,
+                799.29736328125
+            ]
+        }
+    ]
+}

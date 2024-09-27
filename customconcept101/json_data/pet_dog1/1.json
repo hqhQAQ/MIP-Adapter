@@ -1,0 +1,20 @@
+{
+    "caption": "arafed dog on a rock with a leash on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.96,
+            "box": [
+                101.1297607421875,
+                213.88912963867188,
+                799.3434448242188,
+                798.591796875
+            ]
+        }
+    ]
+}

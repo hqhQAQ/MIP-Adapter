@@ -1,0 +1,31 @@
+{
+    "caption": "there are two pink two dice sitting on a table next to a keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.62,
+            "box": [
+                306.17877197265625,
+                276.98040771484375,
+                574.147216796875,
+                574.812255859375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.44,
+            "box": [
+                134.04248046875,
+                239.03732299804688,
+                335.93035888671875,
+                474.7462158203125
+            ]
+        }
+    ]
+}

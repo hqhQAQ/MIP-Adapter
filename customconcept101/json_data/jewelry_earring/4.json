@@ -1,0 +1,20 @@
+{
+    "caption": "there are two silver earrings with silver and white stones",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.56,
+            "box": [
+                140.67770385742188,
+                121.67201232910156,
+                635.084228515625,
+                594.7364501953125
+            ]
+        }
+    ]
+}

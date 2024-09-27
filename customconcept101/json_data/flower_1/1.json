@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white flower with yellow center on a tree",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.92,
+            "box": [
+                245.65635681152344,
+                91.19973754882812,
+                654.0525512695312,
+                550.894775390625
+            ]
+        }
+    ]
+}

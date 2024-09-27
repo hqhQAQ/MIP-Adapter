@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is standing on a blanket on the bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.94,
+            "box": [
+                0.996185302734375,
+                15.97515869140625,
+                798.8707275390625,
+                656.2057495117188
+            ]
+        }
+    ]
+}

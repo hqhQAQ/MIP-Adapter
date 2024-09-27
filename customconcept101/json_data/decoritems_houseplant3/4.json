@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small plant in a black pot on a window sill",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.7,
+            "box": [
+                184.28561401367188,
+                189.7769317626953,
+                544.3504638671875,
+                610.2242431640625
+            ]
+        }
+    ]
+}

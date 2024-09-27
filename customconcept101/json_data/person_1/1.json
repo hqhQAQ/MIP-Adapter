@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man sitting in a chair with a cell phone",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                0.424957275390625,
+                175.9893798828125,
+                786.7244873046875,
+                799.1293334960938
+            ]
+        }
+    ]
+}

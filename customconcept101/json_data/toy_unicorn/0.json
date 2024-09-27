@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small white toy that is sitting on a white blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.54,
+            "box": [
+                236.67970275878906,
+                89.70393371582031,
+                533.337890625,
+                524.551025390625
+            ]
+        }
+    ]
+}

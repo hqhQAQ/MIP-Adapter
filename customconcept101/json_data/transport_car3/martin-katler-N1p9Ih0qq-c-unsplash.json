@@ -1,0 +1,20 @@
+{
+    "caption": "arafed volkswagen golf wagon parked on a country road with sunflowers in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.96,
+            "box": [
+                72.91632080078125,
+                267.8330078125,
+                711.9364013671875,
+                564.9527587890625
+            ]
+        }
+    ]
+}

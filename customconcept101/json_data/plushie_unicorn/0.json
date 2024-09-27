@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.52,
+            "box": [
+                84.85539245605469,
+                218.5366668701172,
+                561.6810913085938,
+                647.9732055664062
+            ]
+        }
+    ]
+}

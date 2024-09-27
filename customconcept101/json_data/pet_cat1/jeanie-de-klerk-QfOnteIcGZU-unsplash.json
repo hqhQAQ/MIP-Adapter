@@ -1,0 +1,20 @@
+{
+    "caption": "there is a fluffy cat standing on a set of stairs",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.95,
+            "box": [
+                55.722137451171875,
+                168.93853759765625,
+                755.690185546875,
+                732.2249145507812
+            ]
+        }
+    ]
+}

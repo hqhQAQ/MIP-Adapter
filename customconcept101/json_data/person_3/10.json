@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man in sunglasses and a gray shirt standing in front of a stone wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                0.3056640625,
+                151.8323974609375,
+                574.7658081054688,
+                799.3343505859375
+            ]
+        }
+    ]
+}

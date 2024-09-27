@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black coffee mug with a blue and green leaf design on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.93,
+            "box": [
+                162.39784240722656,
+                224.111083984375,
+                603.2285766601562,
+                642.7807006835938
+            ]
+        }
+    ]
+}

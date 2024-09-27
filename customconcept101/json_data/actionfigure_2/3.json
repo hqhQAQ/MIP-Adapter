@@ -1,0 +1,31 @@
+{
+    "caption": "a close up of a toy figure of a harry potter with a wand",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.59,
+            "box": [
+                84.88059997558594,
+                246.42520141601562,
+                488.5137939453125,
+                783.23193359375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "actionfigure",
+            "logit": 0.35,
+            "box": [
+                1.1695938110351562,
+                39.294403076171875,
+                168.57540893554688,
+                597.3026123046875
+            ]
+        }
+    ]
+}

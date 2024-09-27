@@ -1,0 +1,20 @@
+{
+    "caption": "guitar sitting on the floor in front of a door with a blue jacket hanging on the wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.76,
+            "box": [
+                51.89599609375,
+                21.2647705078125,
+                743.630126953125,
+                968.3455200195312
+            ]
+        }
+    ]
+}

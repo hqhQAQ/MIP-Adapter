@@ -1,0 +1,20 @@
+{
+    "caption": "arafed audi car parked in front of a building in a city",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.92,
+            "box": [
+                119.48358154296875,
+                489.77606201171875,
+                635.9518432617188,
+                742.0745849609375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a wicker chair with a plant in the corner",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.89,
+            "box": [
+                5.043487548828125,
+                251.73306274414062,
+                798.2093505859375,
+                1197.797119140625
+            ]
+        }
+    ]
+}

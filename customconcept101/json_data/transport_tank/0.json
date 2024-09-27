@@ -1,0 +1,31 @@
+{
+    "caption": "there is a metal machine that is sitting on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tank",
+            "logit": 0.78,
+            "box": [
+                88.29379272460938,
+                74.60870361328125,
+                695.5535888671875,
+                726.1752319335938
+            ]
+        },
+        {
+            "value": 2,
+            "label": "tank",
+            "logit": 0.33,
+            "box": [
+                0.6104278564453125,
+                0.1139373779296875,
+                188.4287109375,
+                255.35206604003906
+            ]
+        }
+    ]
+}

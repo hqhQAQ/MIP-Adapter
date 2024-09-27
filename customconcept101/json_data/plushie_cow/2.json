@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a stuffed animal on a rug with a shirt on",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cow",
+            "logit": 0.61,
+            "box": [
+                144.15219116210938,
+                110.45782470703125,
+                589.926513671875,
+                618.5630493164062
+            ]
+        }
+    ]
+}

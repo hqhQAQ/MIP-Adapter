@@ -1,0 +1,42 @@
+{
+    "caption": "there are two chairs and a table in the middle of the street",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tablechair",
+            "logit": 0.76,
+            "box": [
+                817.73095703125,
+                252.0840606689453,
+                1150.1939697265625,
+                710.069091796875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "tablechair",
+            "logit": 0.75,
+            "box": [
+                74.86239624023438,
+                223.04342651367188,
+                432.3074035644531,
+                646.3541259765625
+            ]
+        },
+        {
+            "value": 3,
+            "label": "tablechair",
+            "logit": 0.69,
+            "box": [
+                331.09454345703125,
+                299.24639892578125,
+                842.5330200195312,
+                720.8114013671875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "there is a white two flower with yellow center on a tree",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.57,
+            "box": [
+                307.8094482421875,
+                369.2393798828125,
+                617.9429931640625,
+                617.3577880859375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "flower",
+            "logit": 0.35,
+            "box": [
+                556.5377197265625,
+                505.1912536621094,
+                688.8992309570312,
+                650.1915283203125
+            ]
+        }
+    ]
+}

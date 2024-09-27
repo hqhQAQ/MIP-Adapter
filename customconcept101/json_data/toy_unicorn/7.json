@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small white bear sitting on a table with a light",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.48,
+            "box": [
+                95.16938781738281,
+                265.71600341796875,
+                415.42633056640625,
+                636.613525390625
+            ]
+        }
+    ]
+}

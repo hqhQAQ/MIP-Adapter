@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small plant in a black pot on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.73,
+            "box": [
+                147.91358947753906,
+                93.7921142578125,
+                575.8297119140625,
+                614.1948852539062
+            ]
+        }
+    ]
+}

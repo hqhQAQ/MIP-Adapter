@@ -1,0 +1,31 @@
+{
+    "caption": "there is a small ottoman sitting on the floor in a living room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.57,
+            "box": [
+                42.119873046875,
+                32.800140380859375,
+                766.8292236328125,
+                783.341064453125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "chair",
+            "logit": 0.26,
+            "box": [
+                625.86376953125,
+                0.0771636962890625,
+                799.8346557617188,
+                148.54217529296875
+            ]
+        }
+    ]
+}

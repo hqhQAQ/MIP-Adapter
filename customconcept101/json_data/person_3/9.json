@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man standing in front of a canal in a city",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.91,
+            "box": [
+                0.805389404296875,
+                83.51968383789062,
+                699.0731201171875,
+                799.5283203125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small gnome statue sitting on a window sill",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "gnome",
+            "logit": 0.92,
+            "box": [
+                276.55328369140625,
+                44.42559814453125,
+                559.3165283203125,
+                717.7201538085938
+            ]
+        }
+    ]
+}

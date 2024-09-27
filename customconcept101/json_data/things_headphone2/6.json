@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red chair with a headphone on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.81,
+            "box": [
+                236.07472229003906,
+                250.49681091308594,
+                574.8088989257812,
+                544.2853393554688
+            ]
+        }
+    ]
+}

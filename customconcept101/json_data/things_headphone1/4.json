@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of headphones hanging on a wooden shelf",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.85,
+            "box": [
+                100.26690673828125,
+                5.860137939453125,
+                669.661865234375,
+                793.1131591796875
+            ]
+        }
+    ]
+}

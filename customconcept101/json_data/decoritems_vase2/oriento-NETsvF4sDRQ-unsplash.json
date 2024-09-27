@@ -1,0 +1,20 @@
+{
+    "caption": "there is a blue vase with a flower in it on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "vase",
+            "logit": 0.85,
+            "box": [
+                287.38372802734375,
+                368.5475769042969,
+                435.0909729003906,
+                735.955810546875
+            ]
+        }
+    ]
+}

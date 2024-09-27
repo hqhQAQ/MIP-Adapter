@@ -1,0 +1,31 @@
+{
+    "caption": "there is a small metal engine with a chain attached to it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tank",
+            "logit": 0.65,
+            "box": [
+                100.783935546875,
+                137.29620361328125,
+                736.8591918945312,
+                652.4633178710938
+            ]
+        },
+        {
+            "value": 2,
+            "label": "tank",
+            "logit": 0.4,
+            "box": [
+                155.93368530273438,
+                0.09393310546875,
+                400.9156494140625,
+                196.0201873779297
+            ]
+        }
+    ]
+}

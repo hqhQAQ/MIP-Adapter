@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pink flower with white petals and green leaves",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.82,
+            "box": [
+                283.71435546875,
+                203.73861694335938,
+                546.814208984375,
+                536.8804931640625
+            ]
+        }
+    ]
+}

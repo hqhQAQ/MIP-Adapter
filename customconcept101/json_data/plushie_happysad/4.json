@@ -1,0 +1,20 @@
+{
+    "caption": "there is a green octopus toy sitting on a desk next to a computer",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "happysad",
+            "logit": 0.79,
+            "box": [
+                101.78164672851562,
+                102.3087158203125,
+                779.15576171875,
+                738.685302734375
+            ]
+        }
+    ]
+}

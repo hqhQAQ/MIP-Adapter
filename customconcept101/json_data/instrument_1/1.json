@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black amp sitting on the floor next to a fan",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "instrument",
+            "logit": 0.92,
+            "box": [
+                99.39736938476562,
+                118.74273681640625,
+                764.8631591796875,
+                783.039794921875
+            ]
+        }
+    ]
+}

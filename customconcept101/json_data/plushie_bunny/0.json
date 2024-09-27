@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is sitting on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bunny",
+            "logit": 0.76,
+            "box": [
+                129.6129913330078,
+                32.43402099609375,
+                616.5734252929688,
+                716.3480834960938
+            ]
+        }
+    ]
+}

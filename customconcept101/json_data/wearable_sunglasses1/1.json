@@ -1,0 +1,20 @@
+{
+    "caption": "pair of blue sunglasses laying on a bed with white sheets",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sunglasses",
+            "logit": 0.97,
+            "box": [
+                167.72967529296875,
+                183.69696044921875,
+                618.5867309570312,
+                598.5555419921875
+            ]
+        }
+    ]
+}

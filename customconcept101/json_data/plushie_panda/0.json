@@ -1,0 +1,20 @@
+{
+    "caption": "araffe sitting on a bed with a pink blanket and a lamp",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.9,
+            "box": [
+                94.00146484375,
+                106.06617736816406,
+                582.9049072265625,
+                563.5860595703125
+            ]
+        }
+    ]
+}

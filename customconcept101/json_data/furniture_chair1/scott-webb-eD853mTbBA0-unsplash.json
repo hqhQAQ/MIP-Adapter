@@ -1,0 +1,20 @@
+{
+    "caption": "arafed black and white cat sitting on a white chair against a pink background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.92,
+            "box": [
+                209.38156127929688,
+                112.37615966796875,
+                587.7169189453125,
+                765.1525268554688
+            ]
+        }
+    ]
+}

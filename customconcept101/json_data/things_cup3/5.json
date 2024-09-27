@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yeti cup on a quilt with a fish pattern",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.93,
+            "box": [
+                271.8551025390625,
+                179.15866088867188,
+                529.3187866210938,
+                729.733154296875
+            ]
+        }
+    ]
+}

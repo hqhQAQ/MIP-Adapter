@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat sitting on a ledge looking at the camera",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.94,
+            "box": [
+                207.00393676757812,
+                113.39419555664062,
+                675.0169677734375,
+                708.25927734375
+            ]
+        }
+    ]
+}

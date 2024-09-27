@@ -1,0 +1,20 @@
+{
+    "caption": "araffes wearing a pair of boots standing on a sidewalk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.9,
+            "box": [
+                156.6968536376953,
+                162.7635955810547,
+                469.29766845703125,
+                585.6073608398438
+            ]
+        }
+    ]
+}

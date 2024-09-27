@@ -1,0 +1,20 @@
+{
+    "caption": "there is a chair and a lamp in a room with a window",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lamp",
+            "logit": 0.87,
+            "box": [
+                36.56254577636719,
+                270.87994384765625,
+                321.5255126953125,
+                643.9702758789062
+            ]
+        }
+    ]
+}

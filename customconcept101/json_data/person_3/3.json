@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man standing on a boat looking out at the water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.89,
+            "box": [
+                0.253143310546875,
+                153.860107421875,
+                512.461669921875,
+                799.5921020507812
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "arafed volkswagen golf gtr parked in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.95,
+            "box": [
+                30.312591552734375,
+                304.59027099609375,
+                679.352783203125,
+                644.6539306640625
+            ]
+        }
+    ]
+}

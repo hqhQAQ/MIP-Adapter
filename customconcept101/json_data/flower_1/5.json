@@ -1,0 +1,31 @@
+{
+    "caption": "there is a white two flower with yellow stamens on a tree",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.56,
+            "box": [
+                136.27560424804688,
+                197.5653839111328,
+                563.8463134765625,
+                645.3306884765625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "flower",
+            "logit": 0.5,
+            "box": [
+                454.08868408203125,
+                95.83050537109375,
+                712.654541015625,
+                474.0587158203125
+            ]
+        }
+    ]
+}

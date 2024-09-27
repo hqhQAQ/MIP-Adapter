@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two keychain with a picture of a person on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "keychain",
+            "logit": 0.57,
+            "box": [
+                235.88986206054688,
+                117.60690307617188,
+                446.59710693359375,
+                422.7662048339844
+            ]
+        },
+        {
+            "value": 2,
+            "label": "keychain",
+            "logit": 0.27,
+            "box": [
+                65.37254333496094,
+                332.60235595703125,
+                339.92791748046875,
+                673.461181640625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of headphones sitting on a window sill",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.9,
+            "box": [
+                197.84349060058594,
+                130.96221923828125,
+                629.3524169921875,
+                650.4205322265625
+            ]
+        }
+    ]
+}

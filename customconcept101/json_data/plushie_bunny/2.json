@@ -1,0 +1,20 @@
+{
+    "caption": "arafed stuffed rabbit in a pink robe sitting on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bunny",
+            "logit": 0.45,
+            "box": [
+                1.826751708984375,
+                80.5654296875,
+                727.9532470703125,
+                797.700439453125
+            ]
+        }
+    ]
+}

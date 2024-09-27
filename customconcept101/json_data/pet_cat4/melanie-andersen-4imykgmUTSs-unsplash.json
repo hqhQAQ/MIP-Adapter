@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is sitting on a table looking up",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.43,
+            "box": [
+                172.37548828125,
+                77.71755981445312,
+                696.5411987304688,
+                797.9351806640625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man that is smiling and holding a donut",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.84,
+            "box": [
+                -0.026641845703125,
+                79.77651977539062,
+                799.9716796875,
+                799.971923828125
+            ]
+        }
+    ]
+}

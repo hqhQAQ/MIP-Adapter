@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black and gold amp sitting on a chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "instrument",
+            "logit": 0.92,
+            "box": [
+                81.85635375976562,
+                51.03912353515625,
+                794.418212890625,
+                769.5451049804688
+            ]
+        }
+    ]
+}

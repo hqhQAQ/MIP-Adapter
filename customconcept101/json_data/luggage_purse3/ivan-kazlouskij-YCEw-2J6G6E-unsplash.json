@@ -1,0 +1,31 @@
+{
+    "caption": "there is a black two purse and a bottle of milk on a shelf",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.41,
+            "box": [
+                86.01370239257812,
+                1.264251708984375,
+                693.6614990234375,
+                741.17529296875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "purse",
+            "logit": 0.32,
+            "box": [
+                437.3636474609375,
+                405.29583740234375,
+                677.5228271484375,
+                640.1090087890625
+            ]
+        }
+    ]
+}

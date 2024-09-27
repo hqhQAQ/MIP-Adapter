@@ -1,0 +1,31 @@
+{
+    "caption": "there is a toy of a pokemon figure on a toy boat",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pikachu",
+            "logit": 0.53,
+            "box": [
+                93.11700439453125,
+                60.5654296875,
+                681.8590087890625,
+                748.9204711914062
+            ]
+        },
+        {
+            "value": 2,
+            "label": "pikachu",
+            "logit": 0.35,
+            "box": [
+                294.045166015625,
+                60.692230224609375,
+                619.4227905273438,
+                605.4617919921875
+            ]
+        }
+    ]
+}

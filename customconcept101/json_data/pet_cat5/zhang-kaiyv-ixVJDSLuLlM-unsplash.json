@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat walking on the concrete steps outside",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.96,
+            "box": [
+                115.2376708984375,
+                198.18798828125,
+                516.5640258789062,
+                739.9754028320312
+            ]
+        }
+    ]
+}

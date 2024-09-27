@@ -1,0 +1,20 @@
+{
+    "caption": "arafed volkswagen golf gts parked on the side of the road",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.95,
+            "box": [
+                156.3404998779297,
+                404.7004699707031,
+                615.5718994140625,
+                663.4957275390625
+            ]
+        }
+    ]
+}

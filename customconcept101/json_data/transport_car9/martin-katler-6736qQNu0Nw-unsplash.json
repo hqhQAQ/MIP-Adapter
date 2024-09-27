@@ -1,0 +1,20 @@
+{
+    "caption": "bmw car parked in the snow in a wooded area",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.94,
+            "box": [
+                145.3079833984375,
+                58.191192626953125,
+                799.6405029296875,
+                731.8045654296875
+            ]
+        }
+    ]
+}

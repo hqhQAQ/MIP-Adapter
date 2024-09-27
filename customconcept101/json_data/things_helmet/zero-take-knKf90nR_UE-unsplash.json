@@ -1,0 +1,20 @@
+{
+    "caption": "there is a helmet on a person's head with a yellow and red helmet",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "helmet",
+            "logit": 0.89,
+            "box": [
+                101.39743041992188,
+                252.1083984375,
+                736.639892578125,
+                795.0289306640625
+            ]
+        }
+    ]
+}

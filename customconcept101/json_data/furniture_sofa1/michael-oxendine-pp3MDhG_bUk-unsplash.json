@@ -1,0 +1,20 @@
+{
+    "caption": "there is a laptop sitting on a leather couch in a living room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sofa",
+            "logit": 0.9,
+            "box": [
+                1.542694091796875,
+                178.56842041015625,
+                797.832763671875,
+                1196.990234375
+            ]
+        }
+    ]
+}

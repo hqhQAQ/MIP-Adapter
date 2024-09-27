@@ -1,0 +1,31 @@
+{
+    "caption": "there is a plant that is sitting in a pot on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.57,
+            "box": [
+                2.008514404296875,
+                54.504974365234375,
+                797.349853515625,
+                765.7867431640625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "houseplant",
+            "logit": 0.29,
+            "box": [
+                0.7223968505859375,
+                53.366485595703125,
+                263.9696044921875,
+                566.1890869140625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a hanging chair with a plant in a pot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.88,
+            "box": [
+                319.07098388671875,
+                74.75912475585938,
+                794.3692016601562,
+                760.43408203125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "two pink two dices sitting on a brick ledge outside a store",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.73,
+            "box": [
+                115.88165283203125,
+                235.7445831298828,
+                406.61383056640625,
+                538.6357421875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.73,
+            "box": [
+                381.96563720703125,
+                210.71543884277344,
+                696.3189086914062,
+                536.6826782226562
+            ]
+        }
+    ]
+}

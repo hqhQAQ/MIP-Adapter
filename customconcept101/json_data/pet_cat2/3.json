@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is walking on a rug on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.95,
+            "box": [
+                0.987152099609375,
+                0.74639892578125,
+                789.410400390625,
+                837.8665161132812
+            ]
+        }
+    ]
+}

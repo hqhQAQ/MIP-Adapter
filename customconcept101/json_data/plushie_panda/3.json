@@ -1,0 +1,20 @@
+{
+    "caption": "araffe panda bear sitting on a railing in a stairwell",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.9,
+            "box": [
+                191.37290954589844,
+                228.29306030273438,
+                614.2796630859375,
+                613.918701171875
+            ]
+        }
+    ]
+}

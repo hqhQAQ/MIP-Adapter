@@ -1,0 +1,20 @@
+{
+    "caption": "guitar with a picture of the beatles on it sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.82,
+            "box": [
+                59.227935791015625,
+                36.583648681640625,
+                685.7388916015625,
+                633.14404296875
+            ]
+        }
+    ]
+}

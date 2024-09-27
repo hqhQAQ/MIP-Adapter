@@ -1,0 +1,31 @@
+{
+    "caption": "there is a orange sports two car parked on the street",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.83,
+            "box": [
+                175.90171813964844,
+                372.43505859375,
+                605.9042358398438,
+                694.8634033203125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "car",
+            "logit": 0.26,
+            "box": [
+                330.6409606933594,
+                277.029541015625,
+                369.53265380859375,
+                294.2115783691406
+            ]
+        }
+    ]
+}

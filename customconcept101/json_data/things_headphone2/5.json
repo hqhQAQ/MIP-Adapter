@@ -1,0 +1,20 @@
+{
+    "caption": "there is a brown leather couch with a black headphone on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.9,
+            "box": [
+                215.13375854492188,
+                273.63250732421875,
+                545.4041748046875,
+                458.7846374511719
+            ]
+        }
+    ]
+}

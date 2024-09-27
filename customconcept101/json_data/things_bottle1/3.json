@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow strap around a bottle holder on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bottle",
+            "logit": 0.81,
+            "box": [
+                206.0233612060547,
+                54.92828369140625,
+                468.56866455078125,
+                537.96044921875
+            ]
+        }
+    ]
+}

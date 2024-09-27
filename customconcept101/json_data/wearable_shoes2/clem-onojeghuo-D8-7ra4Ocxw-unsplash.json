@@ -1,0 +1,20 @@
+{
+    "caption": "someone is wearing a pair of brown boots and black pants",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.88,
+            "box": [
+                345.87554931640625,
+                181.60403442382812,
+                690.0896606445312,
+                603.825439453125
+            ]
+        }
+    ]
+}

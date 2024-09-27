@@ -1,0 +1,20 @@
+{
+    "caption": "audi car parked in a parking lot with a sunset in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.86,
+            "box": [
+                293.2171630859375,
+                179.30673217773438,
+                799.6256103515625,
+                713.0255126953125
+            ]
+        }
+    ]
+}

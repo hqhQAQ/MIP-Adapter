@@ -1,0 +1,31 @@
+{
+    "caption": "arafed man in glasses taking a selfie on a street corner",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.86,
+            "box": [
+                0.22247314453125,
+                125.45382690429688,
+                799.7119140625,
+                802.2724609375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "person",
+            "logit": 0.46,
+            "box": [
+                642.9595336914062,
+                201.91091918945312,
+                666.4078979492188,
+                245.78302001953125
+            ]
+        }
+    ]
+}

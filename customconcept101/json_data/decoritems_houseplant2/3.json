@@ -1,0 +1,31 @@
+{
+    "caption": "there is a small plant with pink flowers in a black pot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.61,
+            "box": [
+                169.316162109375,
+                58.4935302734375,
+                670.62255859375,
+                733.8030395507812
+            ]
+        },
+        {
+            "value": 2,
+            "label": "houseplant",
+            "logit": 0.3,
+            "box": [
+                169.76736450195312,
+                358.024169921875,
+                563.3763427734375,
+                735.056396484375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a guitar that is sitting on a bench",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.77,
+            "box": [
+                160.57815551757812,
+                34.5487060546875,
+                471.2136535644531,
+                759.9279174804688
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is wrapped in tape on a desk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "plushie",
+            "logit": 0.94,
+            "box": [
+                138.68630981445312,
+                118.73114013671875,
+                640.66064453125,
+                720.053955078125
+            ]
+        }
+    ]
+}

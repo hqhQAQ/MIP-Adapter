@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black dog wearing a red sweater laying on a blue couch",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.92,
+            "box": [
+                21.303924560546875,
+                60.652008056640625,
+                562.4776611328125,
+                699.3487548828125
+            ]
+        }
+    ]
+}

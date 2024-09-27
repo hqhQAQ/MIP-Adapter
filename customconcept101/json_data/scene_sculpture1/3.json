@@ -1,0 +1,20 @@
+{
+    "caption": "there is a christmas tree made of glass and a star on top",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sculpture",
+            "logit": 0.54,
+            "box": [
+                188.76101684570312,
+                13.644195556640625,
+                672.5872802734375,
+                902.429931640625
+            ]
+        }
+    ]
+}

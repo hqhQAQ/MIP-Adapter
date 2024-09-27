@@ -1,0 +1,20 @@
+{
+    "caption": "there is a coffee mug with a picture of a person on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.93,
+            "box": [
+                214.8693389892578,
+                21.227645874023438,
+                711.5962524414062,
+                484.0086669921875
+            ]
+        }
+    ]
+}

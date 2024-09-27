@@ -1,0 +1,20 @@
+{
+    "caption": "someone is wearing a pair of brown boots with a tag on them",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.92,
+            "box": [
+                77.02841186523438,
+                164.78128051757812,
+                669.213623046875,
+                740.087890625
+            ]
+        }
+    ]
+}

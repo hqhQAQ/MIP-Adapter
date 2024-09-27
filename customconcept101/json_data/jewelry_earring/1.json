@@ -1,0 +1,31 @@
+{
+    "caption": "pair of silver colored two earrings with crystal stones on a white surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.7,
+            "box": [
+                348.9813537597656,
+                49.27783203125,
+                518.9840087890625,
+                626.861572265625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "earring",
+            "logit": 0.68,
+            "box": [
+                147.09744262695312,
+                103.90139770507812,
+                295.50665283203125,
+                707.95556640625
+            ]
+        }
+    ]
+}

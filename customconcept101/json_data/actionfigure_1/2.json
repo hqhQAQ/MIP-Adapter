@@ -1,0 +1,31 @@
+{
+    "caption": "there is a toy figure of a man with a sword",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.32,
+            "box": [
+                43.8221435546875,
+                41.546783447265625,
+                795.8856201171875,
+                788.6923828125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "actionfigure",
+            "logit": 0.31,
+            "box": [
+                41.722084045410156,
+                258.15106201171875,
+                205.69674682617188,
+                402.74932861328125
+            ]
+        }
+    ]
+}

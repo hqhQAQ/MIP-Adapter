@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man and woman taking a selfie at the beach",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.88,
+            "box": [
+                7.67999267578125,
+                5.904571533203125,
+                798.1509399414062,
+                798.9722900390625
+            ]
+        }
+    ]
+}

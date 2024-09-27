@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is wearing a vest",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cow",
+            "logit": 0.5,
+            "box": [
+                191.20526123046875,
+                221.02333068847656,
+                605.4207153320312,
+                711.6796264648438
+            ]
+        }
+    ]
+}

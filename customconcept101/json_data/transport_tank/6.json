@@ -1,0 +1,31 @@
+{
+    "caption": "there is a metal model of a tractor on a orange chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tank",
+            "logit": 0.59,
+            "box": [
+                139.42404174804688,
+                115.9737548828125,
+                644.8536376953125,
+                615.0735473632812
+            ]
+        },
+        {
+            "value": 2,
+            "label": "tank",
+            "logit": 0.31,
+            "box": [
+                1.735076904296875,
+                1.35302734375,
+                798.0531005859375,
+                796.8583374023438
+            ]
+        }
+    ]
+}

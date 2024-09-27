@@ -1,0 +1,20 @@
+{
+    "caption": "there is a plate of food that has been eaten on the table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dish",
+            "logit": 0.42,
+            "box": [
+                123.978271484375,
+                20.16278076171875,
+                1047.1396484375,
+                797.7361450195312
+            ]
+        }
+    ]
+}

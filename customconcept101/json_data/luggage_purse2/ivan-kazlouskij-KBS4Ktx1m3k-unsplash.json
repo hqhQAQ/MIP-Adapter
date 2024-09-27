@@ -1,0 +1,20 @@
+{
+    "caption": "someone holding a black purse in their hand in a room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.65,
+            "box": [
+                231.44174194335938,
+                124.496337890625,
+                791.4337158203125,
+                760.2911376953125
+            ]
+        }
+    ]
+}

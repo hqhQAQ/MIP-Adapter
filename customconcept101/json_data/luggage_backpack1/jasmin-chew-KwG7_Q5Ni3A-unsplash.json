@@ -1,0 +1,20 @@
+{
+    "caption": "arafed woman with a brown backpack and a brown skirt",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.38,
+            "box": [
+                144.06381225585938,
+                35.514190673828125,
+                640.641357421875,
+                792.7586669921875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat sitting on the sidewalk looking up",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.96,
+            "box": [
+                268.0353698730469,
+                248.30621337890625,
+                704.2222900390625,
+                785.7517700195312
+            ]
+        }
+    ]
+}

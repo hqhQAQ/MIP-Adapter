@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of adidas sneakers on a floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.85,
+            "box": [
+                142.96713256835938,
+                0.66796875,
+                1035.0242919921875,
+                544.9287109375
+            ]
+        }
+    ]
+}

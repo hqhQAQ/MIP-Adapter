@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear sitting on a bench with leaves",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "teddybear",
+            "logit": 0.9,
+            "box": [
+                165.08999633789062,
+                66.51113891601562,
+                609.6763916015625,
+                754.3231201171875
+            ]
+        }
+    ]
+}

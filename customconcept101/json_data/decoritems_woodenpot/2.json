@@ -1,0 +1,20 @@
+{
+    "caption": "there is a vase with a carved design on it on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "woodenpot",
+            "logit": 0.93,
+            "box": [
+                167.99560546875,
+                90.00177001953125,
+                680.0213012695312,
+                777.2723999023438
+            ]
+        }
+    ]
+}

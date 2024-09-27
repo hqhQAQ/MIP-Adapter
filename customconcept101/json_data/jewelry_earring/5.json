@@ -1,0 +1,31 @@
+{
+    "caption": "pair of two earrings with white stones in a black box",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.54,
+            "box": [
+                143.77696228027344,
+                249.6321258544922,
+                271.02154541015625,
+                702.1325073242188
+            ]
+        },
+        {
+            "value": 2,
+            "label": "earring",
+            "logit": 0.51,
+            "box": [
+                360.00286865234375,
+                258.48992919921875,
+                475.5428466796875,
+                700.9254150390625
+            ]
+        }
+    ]
+}

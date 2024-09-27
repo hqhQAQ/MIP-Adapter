@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two book on a desk with a mouse and a mouse",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.66,
+            "box": [
+                16.6824951171875,
+                125.7161865234375,
+                788.8638916015625,
+                683.1842651367188
+            ]
+        },
+        {
+            "value": 2,
+            "label": "book",
+            "logit": 0.33,
+            "box": [
+                0.4608612060546875,
+                0.2486419677734375,
+                349.01385498046875,
+                202.87814331054688
+            ]
+        }
+    ]
+}

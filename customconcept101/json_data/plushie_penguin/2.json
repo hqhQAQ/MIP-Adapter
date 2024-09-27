@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed penguin sitting on a window sill next to a potted plant",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "penguin",
+            "logit": 0.51,
+            "box": [
+                186.86712646484375,
+                85.44009399414062,
+                701.0421142578125,
+                778.8919677734375
+            ]
+        }
+    ]
+}

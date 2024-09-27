@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small table with a yellow and white chevron curtain",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "table",
+            "logit": 0.89,
+            "box": [
+                77.0909423828125,
+                60.943695068359375,
+                799.0588989257812,
+                770.478759765625
+            ]
+        }
+    ]
+}

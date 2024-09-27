@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pink stuffed animal sitting on a desk next to a keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink",
+            "logit": 0.37,
+            "box": [
+                86.65167236328125,
+                130.634033203125,
+                486.58282470703125,
+                648.3890380859375
+            ]
+        }
+    ]
+}

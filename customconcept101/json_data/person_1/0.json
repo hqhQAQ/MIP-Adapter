@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man wearing glasses and a jacket standing in front of a barren area",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                126.34652709960938,
+                101.73110961914062,
+                774.18017578125,
+                799.100830078125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a woman carrying a brown backpack in the woods",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.44,
+            "box": [
+                1.38848876953125,
+                0.566436767578125,
+                709.9270629882812,
+                797.788818359375
+            ]
+        }
+    ]
+}

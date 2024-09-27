@@ -1,0 +1,31 @@
+{
+    "caption": "there are three silver colored beads on a blue floral background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.4,
+            "box": [
+                123.52084350585938,
+                334.0309143066406,
+                710.2952880859375,
+                544.0089111328125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "earring",
+            "logit": 0.38,
+            "box": [
+                196.11895751953125,
+                193.8778076171875,
+                686.9617919921875,
+                378.33477783203125
+            ]
+        }
+    ]
+}

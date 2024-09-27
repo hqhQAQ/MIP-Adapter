@@ -1,0 +1,20 @@
+{
+    "caption": "someone holding a black purse with two handles and a black strap",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.85,
+            "box": [
+                3.9871826171875,
+                81.13299560546875,
+                796.8729248046875,
+                1132.651123046875
+            ]
+        }
+    ]
+}

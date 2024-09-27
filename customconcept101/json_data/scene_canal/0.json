@@ -1,0 +1,31 @@
+{
+    "caption": "arafed view of a two canal with buildings and a bridge in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "canal",
+            "logit": 0.49,
+            "box": [
+                0.7451171875,
+                508.1563720703125,
+                350.30389404296875,
+                798.6129150390625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "canal",
+            "logit": 0.34,
+            "box": [
+                0.964019775390625,
+                453.79718017578125,
+                595.9241943359375,
+                799.0244140625
+            ]
+        }
+    ]
+}

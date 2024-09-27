@@ -1,0 +1,20 @@
+{
+    "caption": "there is a lighthouse on a hill with a clock on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lighthouse",
+            "logit": 0.67,
+            "box": [
+                278.98931884765625,
+                134.6467742919922,
+                491.6112060546875,
+                532.2759399414062
+            ]
+        }
+    ]
+}

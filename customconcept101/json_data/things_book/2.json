@@ -1,0 +1,20 @@
+{
+    "caption": "there is a book on a desk with a speaker and a speaker",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.89,
+            "box": [
+                76.00698852539062,
+                120.19552612304688,
+                775.845947265625,
+                754.563720703125
+            ]
+        }
+    ]
+}

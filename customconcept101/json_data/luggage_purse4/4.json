@@ -1,0 +1,20 @@
+{
+    "caption": "there is a purse hanging on a chair on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.73,
+            "box": [
+                178.88751220703125,
+                -0.2166748046875,
+                762.4139404296875,
+                659.760498046875
+            ]
+        }
+    ]
+}

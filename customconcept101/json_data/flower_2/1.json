@@ -1,0 +1,20 @@
+{
+    "caption": "there is a close up of a flower with a dark background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.58,
+            "box": [
+                1.39105224609375,
+                14.517852783203125,
+                736.474609375,
+                789.675537109375
+            ]
+        }
+    ]
+}

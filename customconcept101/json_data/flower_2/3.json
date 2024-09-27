@@ -1,0 +1,31 @@
+{
+    "caption": "there is a pink two flower with white petals on a green plant",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.47,
+            "box": [
+                37.338592529296875,
+                38.420318603515625,
+                798.4683837890625,
+                697.262451171875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "flower",
+            "logit": 0.29,
+            "box": [
+                680.7793579101562,
+                160.8128204345703,
+                799.6304321289062,
+                275.2826843261719
+            ]
+        }
+    ]
+}

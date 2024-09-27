@@ -1,0 +1,20 @@
+{
+    "caption": "arafed view of a castle with a tower in the middle of a field",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "castle",
+            "logit": 0.94,
+            "box": [
+                323.34771728515625,
+                212.87840270996094,
+                559.493408203125,
+                643.3184814453125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pink bicycle parked on a gravel road",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bike",
+            "logit": 0.95,
+            "box": [
+                52.958282470703125,
+                62.64654541015625,
+                740.164306640625,
+                757.84326171875
+            ]
+        }
+    ]
+}

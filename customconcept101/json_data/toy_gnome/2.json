@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small toy gnome sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "gnome",
+            "logit": 0.91,
+            "box": [
+                304.3926696777344,
+                128.34271240234375,
+                610.7042236328125,
+                864.197998046875
+            ]
+        }
+    ]
+}

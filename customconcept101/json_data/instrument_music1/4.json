@@ -1,0 +1,20 @@
+{
+    "caption": "there is a guitar that is sitting on the floor next to a chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.71,
+            "box": [
+                249.11801147460938,
+                5.981231689453125,
+                673.8511962890625,
+                1002.20263671875
+            ]
+        }
+    ]
+}

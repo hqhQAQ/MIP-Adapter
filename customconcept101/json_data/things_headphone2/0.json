@@ -1,0 +1,20 @@
+{
+    "caption": "there is a computer monitor and headphones on a desk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.67,
+            "box": [
+                174.2703094482422,
+                252.48193359375,
+                562.828125,
+                605.4951782226562
+            ]
+        }
+    ]
+}

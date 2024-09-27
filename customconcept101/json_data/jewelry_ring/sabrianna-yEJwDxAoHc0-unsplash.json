@@ -1,0 +1,31 @@
+{
+    "caption": "a close up of a pink diamond two ring with a diamond band",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "ring",
+            "logit": 0.61,
+            "box": [
+                213.506591796875,
+                51.447479248046875,
+                718.4800415039062,
+                684.6214599609375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "ring",
+            "logit": 0.35,
+            "box": [
+                214.204833984375,
+                51.938690185546875,
+                622.4443969726562,
+                431.15277099609375
+            ]
+        }
+    ]
+}

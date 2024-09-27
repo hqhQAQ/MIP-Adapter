@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a toy car with a door open on a concrete surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                57.2867431640625,
+                117.59713745117188,
+                745.696044921875,
+                586.3277587890625
+            ]
+        }
+    ]
+}

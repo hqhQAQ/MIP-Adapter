@@ -1,0 +1,20 @@
+{
+    "caption": "guitar with a cartoon design on it sitting on a furry rug",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.84,
+            "box": [
+                267.2499084472656,
+                47.996826171875,
+                505.31463623046875,
+                778.2340087890625
+            ]
+        }
+    ]
+}

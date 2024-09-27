@@ -1,0 +1,20 @@
+{
+    "caption": "arafed view of a silver volkswagen golf parked in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.94,
+            "box": [
+                142.2841796875,
+                398.90924072265625,
+                678.0166015625,
+                668.431396484375
+            ]
+        }
+    ]
+}

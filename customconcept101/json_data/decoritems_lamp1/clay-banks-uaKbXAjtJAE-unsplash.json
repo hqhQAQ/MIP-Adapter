@@ -1,0 +1,20 @@
+{
+    "caption": "there is a lamp that is on a nightstand in a room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lamp",
+            "logit": 0.84,
+            "box": [
+                251.58441162109375,
+                185.53294372558594,
+                460.9437255859375,
+                536.0531005859375
+            ]
+        }
+    ]
+}

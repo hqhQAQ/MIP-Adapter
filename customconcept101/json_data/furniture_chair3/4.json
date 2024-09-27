@@ -1,0 +1,31 @@
+{
+    "caption": "there is a grey recliner sitting on a wooden floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.79,
+            "box": [
+                76.125,
+                120.37158203125,
+                721.3994750976562,
+                764.6492309570312
+            ]
+        },
+        {
+            "value": 2,
+            "label": "chair",
+            "logit": 0.25,
+            "box": [
+                403.2620849609375,
+                120.88009643554688,
+                721.14501953125,
+                762.194580078125
+            ]
+        }
+    ]
+}

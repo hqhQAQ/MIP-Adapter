@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man wearing sunglasses and a backpack taking a selfie",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.83,
+            "box": [
+                0.60284423828125,
+                103.893798828125,
+                767.8883666992188,
+                799.1190185546875
+            ]
+        }
+    ]
+}

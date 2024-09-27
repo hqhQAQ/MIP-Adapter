@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white shoe with a black and red label on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.76,
+            "box": [
+                120.1497802734375,
+                180.5897674560547,
+                990.763427734375,
+                670.2476196289062
+            ]
+        }
+    ]
+}

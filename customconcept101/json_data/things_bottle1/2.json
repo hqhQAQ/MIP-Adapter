@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow strap on a red chair with a yellow bottle",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bottle",
+            "logit": 0.81,
+            "box": [
+                223.85382080078125,
+                132.07582092285156,
+                464.873291015625,
+                594.9398803710938
+            ]
+        }
+    ]
+}

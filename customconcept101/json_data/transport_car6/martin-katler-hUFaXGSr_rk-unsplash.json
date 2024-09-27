@@ -1,0 +1,20 @@
+{
+    "caption": "arafed orange porsche parked on the side of a road",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.84,
+            "box": [
+                201.1319122314453,
+                385.66302490234375,
+                599.8408813476562,
+                733.1106567382812
+            ]
+        }
+    ]
+}

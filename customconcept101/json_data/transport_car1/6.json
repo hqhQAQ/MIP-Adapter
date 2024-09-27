@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a toy car on a wooden table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.92,
+            "box": [
+                218.89662170410156,
+                115.12625122070312,
+                593.11279296875,
+                694.9610595703125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "there is a grey two chair with a pillow on it in front of a window",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.71,
+            "box": [
+                85.0137939453125,
+                35.6947021484375,
+                798.7158813476562,
+                762.8502807617188
+            ]
+        },
+        {
+            "value": 2,
+            "label": "chair",
+            "logit": 0.26,
+            "box": [
+                84.64080810546875,
+                33.495880126953125,
+                518.9978637695312,
+                606.8043212890625
+            ]
+        }
+    ]
+}

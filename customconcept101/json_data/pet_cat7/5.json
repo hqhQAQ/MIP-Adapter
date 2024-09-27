@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is laying on a fluffy blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.94,
+            "box": [
+                164.88516235351562,
+                265.1864318847656,
+                1064.8255615234375,
+                785.413818359375
+            ]
+        }
+    ]
+}

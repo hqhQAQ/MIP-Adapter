@@ -1,0 +1,20 @@
+{
+    "caption": "there is a purse with a strap on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.7,
+            "box": [
+                1.106689453125,
+                0.6695556640625,
+                798.5884399414062,
+                636.806884765625
+            ]
+        }
+    ]
+}

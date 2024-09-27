@@ -1,0 +1,20 @@
+{
+    "caption": "there is a plate of food on a table with wine glasses",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dish",
+            "logit": 0.34,
+            "box": [
+                1.153564453125,
+                387.6782531738281,
+                799.1107788085938,
+                1064.2059326171875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a stuffed cow in a backpack on a carpet",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cow",
+            "logit": 0.3,
+            "box": [
+                262.42266845703125,
+                135.7286834716797,
+                706.887451171875,
+                597.7276000976562
+            ]
+        }
+    ]
+}

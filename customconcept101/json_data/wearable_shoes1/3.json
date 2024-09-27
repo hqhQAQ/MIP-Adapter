@@ -1,0 +1,20 @@
+{
+    "caption": "adidas nm nm nm nm nm nm nm nm nm nm nm nm nm nm nm nm nm",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.87,
+            "box": [
+                78.32473754882812,
+                90.9134521484375,
+                778.602783203125,
+                608.974609375
+            ]
+        }
+    ]
+}

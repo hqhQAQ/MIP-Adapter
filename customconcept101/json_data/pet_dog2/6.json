@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog sitting on the floor in front of a chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.94,
+            "box": [
+                21.949127197265625,
+                186.28604125976562,
+                607.2410888671875,
+                738.8370361328125
+            ]
+        }
+    ]
+}

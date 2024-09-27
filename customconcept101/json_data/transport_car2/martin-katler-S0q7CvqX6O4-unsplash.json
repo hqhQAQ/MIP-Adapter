@@ -1,0 +1,20 @@
+{
+    "caption": "there is a car that is parked in a garage",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.91,
+            "box": [
+                192.9272003173828,
+                465.2894287109375,
+                598.0078735351562,
+                738.7099609375
+            ]
+        }
+    ]
+}

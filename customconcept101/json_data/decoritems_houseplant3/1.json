@@ -1,0 +1,31 @@
+{
+    "caption": "there is a small plant in a small pot on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.65,
+            "box": [
+                173.2819061279297,
+                99.53738403320312,
+                640.628173828125,
+                648.292724609375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "houseplant",
+            "logit": 0.26,
+            "box": [
+                2.270355224609375,
+                2.161468505859375,
+                796.2490234375,
+                797.7642822265625
+            ]
+        }
+    ]
+}

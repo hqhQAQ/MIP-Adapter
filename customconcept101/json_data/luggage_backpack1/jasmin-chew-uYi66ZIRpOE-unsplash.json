@@ -1,0 +1,31 @@
+{
+    "caption": "arafed woman with a brown bag walking down a sidewalk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.42,
+            "box": [
+                321.85430908203125,
+                19.02374267578125,
+                799.2810668945312,
+                796.9638671875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "backpack",
+            "logit": 0.25,
+            "box": [
+                562.9910888671875,
+                17.228485107421875,
+                799.915771484375,
+                533.4407958984375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a guitar that is laying on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.83,
+            "box": [
+                27.510284423828125,
+                193.54376220703125,
+                950.1348876953125,
+                527.2100219726562
+            ]
+        }
+    ]
+}

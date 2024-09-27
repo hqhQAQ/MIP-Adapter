@@ -1,0 +1,20 @@
+{
+    "caption": "there is a toy motorcycle that is sitting on the ground",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "motorbike",
+            "logit": 0.92,
+            "box": [
+                1.807861328125,
+                70.74111938476562,
+                798.2628173828125,
+                657.997314453125
+            ]
+        }
+    ]
+}

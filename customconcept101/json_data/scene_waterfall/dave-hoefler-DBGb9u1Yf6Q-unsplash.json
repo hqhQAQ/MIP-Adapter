@@ -1,0 +1,31 @@
+{
+    "caption": "arafed bridge over a two waterfall with a waterfall in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "waterfall",
+            "logit": 0.64,
+            "box": [
+                296.97650146484375,
+                792.2617797851562,
+                497.93804931640625,
+                1118.47998046875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "waterfall",
+            "logit": 0.36,
+            "box": [
+                226.03839111328125,
+                2.52056884765625,
+                498.067138671875,
+                1117.00146484375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "araffes on a table with a castle in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shoes",
+            "logit": 0.77,
+            "box": [
+                346.8245849609375,
+                238.27622985839844,
+                677.2049560546875,
+                623.860595703125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "shoes",
+            "logit": 0.75,
+            "box": [
+                62.12982177734375,
+                236.67054748535156,
+                487.66644287109375,
+                605.1940307617188
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "araffe stuffed panda bear laying on a blue blanket on a chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.86,
+            "box": [
+                51.38238525390625,
+                329.28094482421875,
+                603.3524169921875,
+                743.291015625
+            ]
+        }
+    ]
+}

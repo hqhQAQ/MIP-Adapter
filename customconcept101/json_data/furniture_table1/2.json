@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small table with a chair next to it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "table",
+            "logit": 0.87,
+            "box": [
+                0.741973876953125,
+                93.53472900390625,
+                727.7257080078125,
+                798.0919799804688
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a plate of food on a table with a fork and knife",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dish",
+            "logit": 0.41,
+            "box": [
+                87.296875,
+                68.08761596679688,
+                922.51025390625,
+                797.8685302734375
+            ]
+        }
+    ]
+}

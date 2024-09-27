@@ -1,0 +1,20 @@
+{
+    "caption": "there is a book sitting on top of a piano keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.83,
+            "box": [
+                44.327850341796875,
+                67.7342529296875,
+                658.9132080078125,
+                770.103759765625
+            ]
+        }
+    ]
+}

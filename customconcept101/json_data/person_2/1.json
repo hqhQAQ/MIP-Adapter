@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man with a red lanyard around his neck",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                0.827239990234375,
+                95.20162963867188,
+                783.1683349609375,
+                799.07666015625
+            ]
+        }
+    ]
+}

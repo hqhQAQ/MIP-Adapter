@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man with glasses and a gray shirt smiling at the camera",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.91,
+            "box": [
+                47.93145751953125,
+                0.426116943359375,
+                799.257568359375,
+                799.193603515625
+            ]
+        }
+    ]
+}

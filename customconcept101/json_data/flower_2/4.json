@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pink flower with white petals and a yellow center",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.78,
+            "box": [
+                202.0631561279297,
+                109.85079956054688,
+                694.2245483398438,
+                700.72998046875
+            ]
+        }
+    ]
+}

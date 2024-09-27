@@ -1,0 +1,20 @@
+{
+    "caption": "someone holding a book in their hand with a fan in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.85,
+            "box": [
+                38.008087158203125,
+                82.91058349609375,
+                732.9005126953125,
+                750.0172119140625
+            ]
+        }
+    ]
+}

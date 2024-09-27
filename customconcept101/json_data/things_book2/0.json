@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a book on a black leather chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.75,
+            "box": [
+                154.08071899414062,
+                105.06192016601562,
+                798.730224609375,
+                742.4095458984375
+            ]
+        }
+    ]
+}

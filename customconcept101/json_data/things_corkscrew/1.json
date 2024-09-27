@@ -1,0 +1,20 @@
+{
+    "caption": "there is a bottle opener sitting on a table with a knife",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "corkscrew",
+            "logit": 0.87,
+            "box": [
+                209.90292358398438,
+                248.53988647460938,
+                442.9267272949219,
+                525.5989990234375
+            ]
+        }
+    ]
+}

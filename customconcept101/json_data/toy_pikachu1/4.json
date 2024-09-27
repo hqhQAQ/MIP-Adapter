@@ -1,0 +1,20 @@
+{
+    "caption": "there is a toy dragon that is sitting on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pikachu",
+            "logit": 0.76,
+            "box": [
+                45.86309814453125,
+                160.08132934570312,
+                644.5665283203125,
+                715.6007080078125
+            ]
+        }
+    ]
+}

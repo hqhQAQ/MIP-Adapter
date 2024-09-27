@@ -1,0 +1,31 @@
+{
+    "caption": "there is a mannequin dressed in a white dress with colorful flowers",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.6,
+            "box": [
+                13.597518920898438,
+                37.83770751953125,
+                501.248291015625,
+                733.3339233398438
+            ]
+        },
+        {
+            "value": 2,
+            "label": "actionfigure",
+            "logit": 0.25,
+            "box": [
+                237.56927490234375,
+                37.57028579711914,
+                297.81695556640625,
+                115.87825012207031
+            ]
+        }
+    ]
+}

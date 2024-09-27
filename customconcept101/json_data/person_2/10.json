@@ -1,0 +1,31 @@
+{
+    "caption": "arafed man in blue shirt holding a plate of food",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.86,
+            "box": [
+                0.593902587890625,
+                32.40118408203125,
+                743.4930419921875,
+                798.8847045898438
+            ]
+        },
+        {
+            "value": 2,
+            "label": "person",
+            "logit": 0.35,
+            "box": [
+                0.20764732360839844,
+                648.909423828125,
+                58.68780517578125,
+                689.858154296875
+            ]
+        }
+    ]
+}

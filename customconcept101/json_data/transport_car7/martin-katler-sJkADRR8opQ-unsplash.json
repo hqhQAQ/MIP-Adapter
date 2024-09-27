@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a white sports car parked in a parking lot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.92,
+            "box": [
+                91.29672241210938,
+                349.9452209472656,
+                727.74462890625,
+                644.0926513671875
+            ]
+        }
+    ]
+}

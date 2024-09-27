@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a jacket with a blue pair of scissors on a hanger",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.93,
+            "box": [
+                0.653594970703125,
+                0.9180908203125,
+                799.7498779296875,
+                798.4462280273438
+            ]
+        }
+    ]
+}

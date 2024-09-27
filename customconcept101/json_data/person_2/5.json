@@ -1,0 +1,20 @@
+{
+    "caption": "arafed asian man with a white shirt and a white apron",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                1.106536865234375,
+                3.8448486328125,
+                798.90234375,
+                798.7230224609375
+            ]
+        }
+    ]
+}

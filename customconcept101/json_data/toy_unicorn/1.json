@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small white animal sitting on a table next to a black spider",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.69,
+            "box": [
+                223.09030151367188,
+                200.40370178222656,
+                478.01629638671875,
+                551.03662109375
+            ]
+        }
+    ]
+}

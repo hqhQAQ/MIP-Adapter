@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a jacket on a bed with a blue blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.86,
+            "box": [
+                0.607391357421875,
+                39.895050048828125,
+                772.4033203125,
+                781.900634765625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "blond woman with a black purse and a black cat",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.68,
+            "box": [
+                14.3009033203125,
+                65.43704223632812,
+                558.4296264648438,
+                774.1229248046875
+            ]
+        }
+    ]
+}

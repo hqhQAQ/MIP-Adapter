@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a red purse with a gold chain",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.82,
+            "box": [
+                94.98727416992188,
+                204.87423706054688,
+                806.1956787109375,
+                798.3170166015625
+            ]
+        }
+    ]
+}

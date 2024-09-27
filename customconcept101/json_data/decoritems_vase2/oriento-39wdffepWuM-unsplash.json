@@ -1,0 +1,20 @@
+{
+    "caption": "there is a blue vase with a black design on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "vase",
+            "logit": 0.93,
+            "box": [
+                240.41708374023438,
+                105.25918579101562,
+                475.63446044921875,
+                706.294677734375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "arafed white volkswagen golf gtr parked in a parking lot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.96,
+            "box": [
+                208.37045288085938,
+                428.4887390136719,
+                633.71484375,
+                614.41748046875
+            ]
+        }
+    ]
+}

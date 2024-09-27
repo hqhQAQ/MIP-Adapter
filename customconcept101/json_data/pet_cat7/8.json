@@ -1,0 +1,20 @@
+{
+    "caption": "there are two cats and a dog laying on a dog bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.94,
+            "box": [
+                260.42669677734375,
+                205.24073791503906,
+                586.1396484375,
+                523.0474243164062
+            ]
+        }
+    ]
+}

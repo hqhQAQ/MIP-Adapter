@@ -1,0 +1,20 @@
+{
+    "caption": "there is a guitar and a backpack on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.81,
+            "box": [
+                2.226898193359375,
+                105.68365478515625,
+                962.892822265625,
+                782.0677490234375
+            ]
+        }
+    ]
+}

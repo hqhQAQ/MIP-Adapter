@@ -1,0 +1,20 @@
+{
+    "caption": "arafed blue sports car parked in a parking lot next to a wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.89,
+            "box": [
+                93.28582763671875,
+                358.0728759765625,
+                697.8921508789062,
+                585.087158203125
+            ]
+        }
+    ]
+}

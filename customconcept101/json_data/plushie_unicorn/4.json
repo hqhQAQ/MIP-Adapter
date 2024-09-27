@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is sitting on a bike",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.39,
+            "box": [
+                197.1371307373047,
+                163.5112762451172,
+                685.5234985351562,
+                601.3893432617188
+            ]
+        }
+    ]
+}

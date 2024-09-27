@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is laying on the floor next to a door",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.94,
+            "box": [
+                51.61956787109375,
+                88.14773559570312,
+                897.5582275390625,
+                798.9447021484375
+            ]
+        }
+    ]
+}

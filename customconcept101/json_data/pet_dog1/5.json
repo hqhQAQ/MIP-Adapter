@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog sitting on a tree stump in the fog",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.96,
+            "box": [
+                294.5096740722656,
+                184.4551239013672,
+                520.3135375976562,
+                673.2819213867188
+            ]
+        }
+    ]
+}

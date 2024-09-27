@@ -1,0 +1,20 @@
+{
+    "caption": "there is a blue yeti cup sitting on a wooden table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cup",
+            "logit": 0.93,
+            "box": [
+                99.65675354003906,
+                177.95742797851562,
+                410.782470703125,
+                745.59130859375
+            ]
+        }
+    ]
+}

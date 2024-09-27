@@ -1,0 +1,20 @@
+{
+    "caption": "arafed orange car parked in a foggy parking lot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                170.3341064453125,
+                386.8572692871094,
+                558.1448364257812,
+                581.297119140625
+            ]
+        }
+    ]
+}

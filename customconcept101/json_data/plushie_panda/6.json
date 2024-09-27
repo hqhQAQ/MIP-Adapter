@@ -1,0 +1,20 @@
+{
+    "caption": "araffe stuffed panda bear laying on a bed with white sheets",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.9,
+            "box": [
+                120.86993408203125,
+                180.668212890625,
+                611.0872802734375,
+                644.5801391601562
+            ]
+        }
+    ]
+}

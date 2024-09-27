@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is sitting on a bed with a green pillow",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.53,
+            "box": [
+                167.900146484375,
+                166.44021606445312,
+                671.4140014648438,
+                753.88427734375
+            ]
+        }
+    ]
+}

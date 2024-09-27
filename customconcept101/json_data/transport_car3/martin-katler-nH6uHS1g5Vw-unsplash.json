@@ -1,0 +1,20 @@
+{
+    "caption": "arafed car parked on the side of the road with a sunset in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.95,
+            "box": [
+                152.8378143310547,
+                405.56103515625,
+                640.851318359375,
+                589.8410034179688
+            ]
+        }
+    ]
+}

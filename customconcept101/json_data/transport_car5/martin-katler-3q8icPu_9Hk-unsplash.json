@@ -1,0 +1,20 @@
+{
+    "caption": "bmw car with orange smoke coming out of it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.91,
+            "box": [
+                100.935791015625,
+                358.2347412109375,
+                626.4374389648438,
+                628.8085327148438
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man with a smile on his face and a gray shirt",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                1.245452880859375,
+                76.139404296875,
+                783.512451171875,
+                799.1195068359375
+            ]
+        }
+    ]
+}

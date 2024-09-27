@@ -1,0 +1,31 @@
+{
+    "caption": "pair of diamond two earrings in a box with a black background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.51,
+            "box": [
+                135.6530303955078,
+                231.02175903320312,
+                253.3680877685547,
+                669.400390625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "earring",
+            "logit": 0.49,
+            "box": [
+                341.7630310058594,
+                241.02149963378906,
+                458.71484375,
+                679.435791015625
+            ]
+        }
+    ]
+}

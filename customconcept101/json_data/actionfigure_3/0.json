@@ -1,0 +1,31 @@
+{
+    "caption": "araffe dressed in a white dress with colorful flowers and a red jacket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.57,
+            "box": [
+                25.673782348632812,
+                27.228424072265625,
+                531.3798217773438,
+                774.1856689453125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "actionfigure",
+            "logit": 0.28,
+            "box": [
+                242.03517150878906,
+                26.75643539428711,
+                311.1677551269531,
+                110.26206970214844
+            ]
+        }
+    ]
+}

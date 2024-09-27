@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black purse sitting on a chair in a room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.73,
+            "box": [
+                77.3450927734375,
+                15.5732421875,
+                823.4119262695312,
+                584.5714111328125
+            ]
+        }
+    ]
+}

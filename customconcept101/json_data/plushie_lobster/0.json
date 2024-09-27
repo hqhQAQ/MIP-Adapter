@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pink stuffed animal sitting on a blue bench",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "plushie",
+            "logit": 0.94,
+            "box": [
+                82.85235595703125,
+                242.94482421875,
+                690.634765625,
+                625.2349853515625
+            ]
+        }
+    ]
+}

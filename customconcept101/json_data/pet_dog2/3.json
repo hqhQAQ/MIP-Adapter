@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small dog that is standing in the dirt",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.96,
+            "box": [
+                110.74220275878906,
+                77.09136962890625,
+                607.3792724609375,
+                567.5119018554688
+            ]
+        }
+    ]
+}

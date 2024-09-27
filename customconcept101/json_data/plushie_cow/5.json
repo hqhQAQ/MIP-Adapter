@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed cow that is sitting on a chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cow",
+            "logit": 0.47,
+            "box": [
+                127.58210754394531,
+                178.01296997070312,
+                548.0989990234375,
+                674.567138671875
+            ]
+        }
+    ]
+}

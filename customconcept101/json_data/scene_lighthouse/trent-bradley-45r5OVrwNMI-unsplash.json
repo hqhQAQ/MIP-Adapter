@@ -1,0 +1,20 @@
+{
+    "caption": "there is a lighthouse on a hill with people walking on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lighthouse",
+            "logit": 0.52,
+            "box": [
+                532.27734375,
+                21.03619384765625,
+                741.6840209960938,
+                719.60546875
+            ]
+        }
+    ]
+}

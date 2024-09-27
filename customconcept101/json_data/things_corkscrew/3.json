@@ -1,0 +1,20 @@
+{
+    "caption": "there is a knife and a bottle opener on a counter",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "corkscrew",
+            "logit": 0.81,
+            "box": [
+                360.66448974609375,
+                122.83187866210938,
+                636.5557861328125,
+                699.802001953125
+            ]
+        }
+    ]
+}

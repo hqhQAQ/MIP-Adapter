@@ -1,0 +1,20 @@
+{
+    "caption": "there is a plate with a meat roll and potatoes on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dish",
+            "logit": 0.33,
+            "box": [
+                2.12188720703125,
+                81.18658447265625,
+                1063.9755859375,
+                772.8353271484375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "there is a brown two purse hanging on a window sill",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.47,
+            "box": [
+                183.16635131835938,
+                412.84613037109375,
+                710.0244140625,
+                759.16748046875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "purse",
+            "logit": 0.43,
+            "box": [
+                182.76730346679688,
+                1.65325927734375,
+                710.5137939453125,
+                759.0294189453125
+            ]
+        }
+    ]
+}

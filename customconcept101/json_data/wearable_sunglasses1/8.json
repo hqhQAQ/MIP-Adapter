@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of sunglasses laying on a blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sunglasses",
+            "logit": 0.95,
+            "box": [
+                106.2386474609375,
+                276.65838623046875,
+                565.2272338867188,
+                588.796630859375
+            ]
+        }
+    ]
+}

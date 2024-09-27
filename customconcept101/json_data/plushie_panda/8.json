@@ -1,0 +1,20 @@
+{
+    "caption": "panda bear laying on a pillow on a bed with pineapples",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.9,
+            "box": [
+                78.899658203125,
+                254.6073455810547,
+                660.9812622070312,
+                624.9876098632812
+            ]
+        }
+    ]
+}

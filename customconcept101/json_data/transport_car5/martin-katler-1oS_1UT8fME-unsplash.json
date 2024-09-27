@@ -1,0 +1,20 @@
+{
+    "caption": "arafed bmw car parked on a concrete parking lot near a field",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                192.3896484375,
+                402.15399169921875,
+                661.6673583984375,
+                682.3426513671875
+            ]
+        }
+    ]
+}

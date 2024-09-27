@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black and white cat sitting on a white table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.85,
+            "box": [
+                166.689697265625,
+                18.84307861328125,
+                747.3639526367188,
+                738.4113159179688
+            ]
+        }
+    ]
+}

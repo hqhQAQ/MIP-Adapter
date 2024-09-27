@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is standing in the grass with a frisbee",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.96,
+            "box": [
+                172.6328582763672,
+                483.1380615234375,
+                352.04962158203125,
+                666.708740234375
+            ]
+        }
+    ]
+}

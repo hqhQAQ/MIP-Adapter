@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a book on a table with a bunch of flowers",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "book",
+            "logit": 0.72,
+            "box": [
+                62.07403564453125,
+                36.86700439453125,
+                719.1708984375,
+                781.1053466796875
+            ]
+        }
+    ]
+}

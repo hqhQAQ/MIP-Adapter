@@ -1,0 +1,20 @@
+{
+    "caption": "there is a headphone on a bed in a room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.82,
+            "box": [
+                157.23464965820312,
+                232.38006591796875,
+                683.6640625,
+                488.42462158203125
+            ]
+        }
+    ]
+}

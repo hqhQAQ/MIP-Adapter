@@ -1,0 +1,20 @@
+{
+    "caption": "there is a metal model of a tractor on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tank",
+            "logit": 0.87,
+            "box": [
+                145.73345947265625,
+                158.44137573242188,
+                603.8873901367188,
+                696.5174560546875
+            ]
+        }
+    ]
+}

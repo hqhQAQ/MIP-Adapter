@@ -1,0 +1,31 @@
+{
+    "caption": "there is a blue and yellow statue of a dragon with a crown on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pikachu",
+            "logit": 0.49,
+            "box": [
+                352.5126037597656,
+                72.45758056640625,
+                744.2987060546875,
+                573.6411743164062
+            ]
+        },
+        {
+            "value": 2,
+            "label": "pikachu",
+            "logit": 0.4,
+            "box": [
+                70.87765502929688,
+                73.59048461914062,
+                743.338623046875,
+                752.8121337890625
+            ]
+        }
+    ]
+}

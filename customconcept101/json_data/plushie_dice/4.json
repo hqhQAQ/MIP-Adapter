@@ -1,0 +1,31 @@
+{
+    "caption": "two pink two dices sitting on top of a cement slab",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.77,
+            "box": [
+                278.1725769042969,
+                416.01458740234375,
+                611.3023681640625,
+                745.336669921875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.65,
+            "box": [
+                226.81138610839844,
+                103.88175964355469,
+                568.1870727539062,
+                407.9561767578125
+            ]
+        }
+    ]
+}

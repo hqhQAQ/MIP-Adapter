@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is looking up at the camera",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.95,
+            "box": [
+                287.07891845703125,
+                307.97833251953125,
+                607.0938720703125,
+                747.7677001953125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "araful view of a canal with buildings and a clock tower in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "canal",
+            "logit": 0.4,
+            "box": [
+                49.827178955078125,
+                462.484375,
+                846.2154541015625,
+                798.9598388671875
+            ]
+        }
+    ]
+}

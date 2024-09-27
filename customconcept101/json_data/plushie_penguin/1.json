@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed penguin sitting on a chair in the room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "penguin",
+            "logit": 0.77,
+            "box": [
+                191.9508819580078,
+                207.25442504882812,
+                596.6132202148438,
+                728.623779296875
+            ]
+        }
+    ]
+}

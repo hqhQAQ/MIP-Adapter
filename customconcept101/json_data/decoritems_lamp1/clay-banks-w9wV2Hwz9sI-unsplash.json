@@ -1,0 +1,20 @@
+{
+    "caption": "there is a bed with a lamp on it next to a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lamp",
+            "logit": 0.83,
+            "box": [
+                188.34141540527344,
+                140.0793914794922,
+                454.59307861328125,
+                509.25897216796875
+            ]
+        }
+    ]
+}

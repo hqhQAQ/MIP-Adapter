@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed octopus sitting on a table with a box",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "happysad",
+            "logit": 0.77,
+            "box": [
+                30.89581298828125,
+                184.99301147460938,
+                791.4562377929688,
+                739.3291015625
+            ]
+        }
+    ]
+}

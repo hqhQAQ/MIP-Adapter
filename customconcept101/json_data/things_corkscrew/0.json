@@ -1,0 +1,31 @@
+{
+    "caption": "there is a bottle opener that is on the floor next to a wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "corkscrew",
+            "logit": 0.54,
+            "box": [
+                218.83290100097656,
+                350.13201904296875,
+                616.8485717773438,
+                499.5191955566406
+            ]
+        },
+        {
+            "value": 2,
+            "label": "corkscrew",
+            "logit": 0.35,
+            "box": [
+                218.43356323242188,
+                191.429931640625,
+                798.223388671875,
+                776.0720825195312
+            ]
+        }
+    ]
+}

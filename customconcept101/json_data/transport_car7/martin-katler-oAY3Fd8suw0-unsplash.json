@@ -1,0 +1,20 @@
+{
+    "caption": "arafed white sports car parked in a parking garage",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.94,
+            "box": [
+                114.61874389648438,
+                493.46002197265625,
+                709.9910888671875,
+                713.8836059570312
+            ]
+        }
+    ]
+}

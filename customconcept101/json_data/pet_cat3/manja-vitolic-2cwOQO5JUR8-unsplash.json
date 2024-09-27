@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black and white cat laying on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.95,
+            "box": [
+                22.690338134765625,
+                214.51248168945312,
+                803.187255859375,
+                742.744873046875
+            ]
+        }
+    ]
+}

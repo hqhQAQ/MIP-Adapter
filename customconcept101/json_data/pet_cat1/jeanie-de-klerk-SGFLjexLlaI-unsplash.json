@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small kitten that is standing on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.93,
+            "box": [
+                74.0963134765625,
+                0.079925537109375,
+                706.6544799804688,
+                777.236328125
+            ]
+        }
+    ]
+}

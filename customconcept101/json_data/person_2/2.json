@@ -1,0 +1,31 @@
+{
+    "caption": "arafed man in a gray jacket standing in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.87,
+            "box": [
+                20.222137451171875,
+                103.96466064453125,
+                690.8399658203125,
+                799.2088012695312
+            ]
+        },
+        {
+            "value": 2,
+            "label": "person",
+            "logit": 0.41,
+            "box": [
+                244.8304443359375,
+                346.92266845703125,
+                257.6069641113281,
+                377.3116760253906
+            ]
+        }
+    ]
+}

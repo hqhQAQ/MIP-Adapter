@@ -1,0 +1,20 @@
+{
+    "caption": "lego model of a yellow taxi in a toy store",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.36,
+            "box": [
+                0.740478515625,
+                2.077301025390625,
+                801.03076171875,
+                798.95166015625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man in a black jacket and glasses standing in front of a river",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.93,
+            "box": [
+                0.22430419921875,
+                159.46875,
+                633.5125732421875,
+                799.3223876953125
+            ]
+        }
+    ]
+}

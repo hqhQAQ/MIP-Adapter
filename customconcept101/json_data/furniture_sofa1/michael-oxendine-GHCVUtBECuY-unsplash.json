@@ -1,0 +1,31 @@
+{
+    "caption": "there is a couch and a table in a living room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sofa",
+            "logit": 0.9,
+            "box": [
+                192.43215942382812,
+                414.81781005859375,
+                750.575927734375,
+                775.5078125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "sofa",
+            "logit": 0.31,
+            "box": [
+                665.830810546875,
+                421.54638671875,
+                799.617919921875,
+                589.94140625
+            ]
+        }
+    ]
+}

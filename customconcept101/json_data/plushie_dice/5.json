@@ -1,0 +1,31 @@
+{
+    "caption": "there are two pink two dice sitting on top of a red box",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.68,
+            "box": [
+                200.9036407470703,
+                318.55029296875,
+                501.31121826171875,
+                576.1116943359375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.42,
+            "box": [
+                510.09637451171875,
+                297.1352844238281,
+                749.7670288085938,
+                528.3558349609375
+            ]
+        }
+    ]
+}

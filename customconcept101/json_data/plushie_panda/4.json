@@ -1,0 +1,20 @@
+{
+    "caption": "araffe stuffed panda bear sitting on a shelf in a hospital",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.92,
+            "box": [
+                141.7230987548828,
+                200.5723876953125,
+                555.2599487304688,
+                516.07568359375
+            ]
+        }
+    ]
+}

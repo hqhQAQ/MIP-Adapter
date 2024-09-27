@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man with black hair and a black shirt smiling at the camera",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                1.115631103515625,
+                8.92529296875,
+                799.129638671875,
+                798.6806640625
+            ]
+        }
+    ]
+}

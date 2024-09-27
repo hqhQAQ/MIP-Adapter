@@ -1,0 +1,31 @@
+{
+    "caption": "someone is holding a brown bag on a rocky beach",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.43,
+            "box": [
+                152.25746154785156,
+                89.77828979492188,
+                595.62060546875,
+                797.4354248046875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "backpack",
+            "logit": 0.27,
+            "box": [
+                213.13694763183594,
+                0.18029022216796875,
+                533.2943725585938,
+                180.2286376953125
+            ]
+        }
+    ]
+}

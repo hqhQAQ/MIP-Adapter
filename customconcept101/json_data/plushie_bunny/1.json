@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear that is laying on a rug",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bunny",
+            "logit": 0.86,
+            "box": [
+                165.62948608398438,
+                77.08160400390625,
+                612.04638671875,
+                887.2808227539062
+            ]
+        }
+    ]
+}

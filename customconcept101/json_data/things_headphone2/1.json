@@ -1,0 +1,20 @@
+{
+    "caption": "there is a orange bowl with a black handle and a black handle",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.32,
+            "box": [
+                151.6233367919922,
+                255.88272094726562,
+                603.9503784179688,
+                565.884765625
+            ]
+        }
+    ]
+}

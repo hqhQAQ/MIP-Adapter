@@ -1,0 +1,31 @@
+{
+    "caption": "arafed man in glasses sitting at a table with a hot dog",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.88,
+            "box": [
+                2.22137451171875,
+                57.130584716796875,
+                776.023681640625,
+                799.13916015625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "person",
+            "logit": 0.28,
+            "box": [
+                622.2418212890625,
+                309.96478271484375,
+                656.7841796875,
+                344.5514221191406
+            ]
+        }
+    ]
+}

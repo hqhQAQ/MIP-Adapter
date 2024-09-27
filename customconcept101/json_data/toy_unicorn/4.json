@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small yellow toy sitting on top of a black keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.72,
+            "box": [
+                241.74905395507812,
+                81.828857421875,
+                510.3276062011719,
+                478.75335693359375
+            ]
+        }
+    ]
+}

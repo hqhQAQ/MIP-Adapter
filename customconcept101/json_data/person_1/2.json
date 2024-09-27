@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man with glasses and a black shirt posing for a picture",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                39.689056396484375,
+                39.11724853515625,
+                799.070068359375,
+                798.7153930664062
+            ]
+        }
+    ]
+}

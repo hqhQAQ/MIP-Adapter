@@ -1,0 +1,20 @@
+{
+    "caption": "araffe laying on a wooden table with a remote control",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.86,
+            "box": [
+                1.000213623046875,
+                191.31857299804688,
+                710.846435546875,
+                761.5162353515625
+            ]
+        }
+    ]
+}

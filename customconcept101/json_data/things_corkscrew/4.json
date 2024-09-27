@@ -1,0 +1,20 @@
+{
+    "caption": "there is a bottle opener that is laying on the ground",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "corkscrew",
+            "logit": 0.87,
+            "box": [
+                157.67457580566406,
+                286.0923156738281,
+                543.9342651367188,
+                488.7940673828125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "caption": "there are two pink two dice sitting on a shelf with a white bow",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.82,
+            "box": [
+                160.73587036132812,
+                275.3303527832031,
+                392.5897216796875,
+                493.765380859375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.8,
+            "box": [
+                396.3734130859375,
+                263.58026123046875,
+                626.7366943359375,
+                486.93145751953125
+            ]
+        }
+    ]
+}

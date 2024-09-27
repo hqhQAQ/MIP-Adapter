@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white chair and a basket on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.83,
+            "box": [
+                386.240966796875,
+                218.87933349609375,
+                726.730712890625,
+                795.5366821289062
+            ]
+        }
+    ]
+}

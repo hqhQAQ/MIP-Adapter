@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow car parked on the side of the road",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.91,
+            "box": [
+                164.30233764648438,
+                295.6998596191406,
+                564.9906005859375,
+                598.835205078125
+            ]
+        }
+    ]
+}

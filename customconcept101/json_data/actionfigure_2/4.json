@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a toy figure on a table with a keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.73,
+            "box": [
+                182.1035614013672,
+                115.27462768554688,
+                621.0545043945312,
+                689.0283203125
+            ]
+        }
+    ]
+}

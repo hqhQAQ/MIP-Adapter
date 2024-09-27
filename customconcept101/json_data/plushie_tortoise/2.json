@@ -1,0 +1,31 @@
+{
+    "caption": "there is a stuffed turtle sitting on top of a piano",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tortoise",
+            "logit": 0.58,
+            "box": [
+                11.64239501953125,
+                14.707260131835938,
+                539.8119506835938,
+                461.58062744140625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "tortoise",
+            "logit": 0.39,
+            "box": [
+                325.46856689453125,
+                258.1968688964844,
+                660.908935546875,
+                608.32958984375
+            ]
+        }
+    ]
+}

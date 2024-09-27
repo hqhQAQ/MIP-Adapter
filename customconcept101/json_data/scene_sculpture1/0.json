@@ -1,0 +1,20 @@
+{
+    "caption": "there is a christmas tree made of coins in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sculpture",
+            "logit": 0.81,
+            "box": [
+                166.29348754882812,
+                135.63290405273438,
+                714.820556640625,
+                1063.5087890625
+            ]
+        }
+    ]
+}

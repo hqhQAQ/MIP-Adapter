@@ -1,0 +1,31 @@
+{
+    "caption": "there is a grey couch with a pillow on it in a room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.5,
+            "box": [
+                315.2064208984375,
+                81.72787475585938,
+                726.017822265625,
+                750.1131591796875
+            ]
+        },
+        {
+            "value": 2,
+            "label": "chair",
+            "logit": 0.49,
+            "box": [
+                42.05712890625,
+                75.031494140625,
+                375.29168701171875,
+                714.8544311523438
+            ]
+        }
+    ]
+}

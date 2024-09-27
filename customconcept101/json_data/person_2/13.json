@@ -1,0 +1,20 @@
+{
+    "caption": "smiling man wearing glasses and a baseball cap in front of a stone wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.91,
+            "box": [
+                187.00729370117188,
+                14.056060791015625,
+                799.236083984375,
+                798.5919189453125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "arafed woman in a white shirt and black pants and a gray jacket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.92,
+            "box": [
+                192.8976287841797,
+                0.52325439453125,
+                636.458740234375,
+                779.264892578125
+            ]
+        }
+    ]
+}

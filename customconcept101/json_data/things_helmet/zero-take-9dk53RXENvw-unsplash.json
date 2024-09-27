@@ -1,0 +1,20 @@
+{
+    "caption": "there is a helmet on a motorcycle parked against a brick wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "helmet",
+            "logit": 0.9,
+            "box": [
+                214.97601318359375,
+                386.5504150390625,
+                622.3832397460938,
+                717.9925537109375
+            ]
+        }
+    ]
+}

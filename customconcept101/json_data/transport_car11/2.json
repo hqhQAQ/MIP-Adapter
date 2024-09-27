@@ -1,0 +1,20 @@
+{
+    "caption": "yellow taxi made out of legos in a building with a man standing next to it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.33,
+            "box": [
+                147.9943389892578,
+                104.35260009765625,
+                262.62017822265625,
+                199.01376342773438
+            ]
+        }
+    ]
+}

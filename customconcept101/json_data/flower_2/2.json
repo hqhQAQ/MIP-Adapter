@@ -1,0 +1,20 @@
+{
+    "caption": "purple and white flower with yellow center in a field",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "flower",
+            "logit": 0.63,
+            "box": [
+                214.9131622314453,
+                41.435882568359375,
+                707.8009033203125,
+                711.3260498046875
+            ]
+        }
+    ]
+}

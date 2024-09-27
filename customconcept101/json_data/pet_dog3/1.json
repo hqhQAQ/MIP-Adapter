@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black dog with a yellow collar on a leash",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.95,
+            "box": [
+                0.41241455078125,
+                252.6248016357422,
+                650.2354736328125,
+                573.9586791992188
+            ]
+        }
+    ]
+}

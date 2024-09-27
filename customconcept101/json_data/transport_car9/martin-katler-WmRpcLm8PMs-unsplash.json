@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a green bmw car parked in a parking lot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                121.27737426757812,
+                25.620819091796875,
+                799.6279296875,
+                747.9456787109375
+            ]
+        }
+    ]
+}

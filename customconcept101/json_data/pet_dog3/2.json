@@ -1,0 +1,20 @@
+{
+    "caption": "there is a black dog standing on a rug in a room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.94,
+            "box": [
+                257.9121398925781,
+                6.105010986328125,
+                748.434814453125,
+                798.4752197265625
+            ]
+        }
+    ]
+}

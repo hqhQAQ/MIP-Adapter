@@ -1,0 +1,20 @@
+{
+    "caption": "there is a man wearing glasses and a suit and tie",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                33.081573486328125,
+                100.30413818359375,
+                799.39013671875,
+                799.203369140625
+            ]
+        }
+    ]
+}

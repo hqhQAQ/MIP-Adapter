@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a car parked on a street near a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.92,
+            "box": [
+                211.59210205078125,
+                105.09469604492188,
+                799.4675903320312,
+                764.0885009765625
+            ]
+        }
+    ]
+}

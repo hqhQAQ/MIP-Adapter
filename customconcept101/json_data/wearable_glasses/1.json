@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of glasses sitting on a window sill",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "glasses",
+            "logit": 0.96,
+            "box": [
+                94.096923828125,
+                350.8931884765625,
+                694.0772094726562,
+                754.5318603515625
+            ]
+        }
+    ]
+}

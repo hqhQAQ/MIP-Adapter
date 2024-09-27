@@ -1,0 +1,31 @@
+{
+    "caption": "there is a white two chair and a small table with a plant on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.47,
+            "box": [
+                40.225677490234375,
+                188.89901733398438,
+                537.443115234375,
+                798.94140625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "chair",
+            "logit": 0.33,
+            "box": [
+                619.0636596679688,
+                267.4119873046875,
+                736.69482421875,
+                372.4905090332031
+            ]
+        }
+    ]
+}

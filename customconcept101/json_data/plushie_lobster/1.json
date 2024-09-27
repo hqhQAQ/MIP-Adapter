@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal hanging from a tree in the yard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "lobster",
+            "logit": 0.26,
+            "box": [
+                102.2901611328125,
+                89.99618530273438,
+                624.3563842773438,
+                702.3138427734375
+            ]
+        }
+    ]
+}

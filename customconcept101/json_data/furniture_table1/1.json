@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small table with a backpack on it in front of a window",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "table",
+            "logit": 0.88,
+            "box": [
+                18.517242431640625,
+                33.245452880859375,
+                761.0830078125,
+                789.3680419921875
+            ]
+        }
+    ]
+}

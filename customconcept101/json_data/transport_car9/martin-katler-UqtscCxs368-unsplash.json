@@ -1,0 +1,20 @@
+{
+    "caption": "arafed view of a green bmw car parked in a parking lot",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.91,
+            "box": [
+                75.7872314453125,
+                166.55087280273438,
+                724.127197265625,
+                720.0267333984375
+            ]
+        }
+    ]
+}

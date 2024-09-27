@@ -1,0 +1,20 @@
+{
+    "caption": "there is a green turtle toy laying on the floor",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tortoise",
+            "logit": 0.83,
+            "box": [
+                119.47329711914062,
+                41.38433837890625,
+                761.3253173828125,
+                767.2637939453125
+            ]
+        }
+    ]
+}

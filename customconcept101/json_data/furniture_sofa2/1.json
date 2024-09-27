@@ -1,0 +1,20 @@
+{
+    "caption": "arafed leather couch with pillows and a rug in a living room",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sofa",
+            "logit": 0.8,
+            "box": [
+                27.34906005859375,
+                72.3236083984375,
+                787.2327270507812,
+                746.4541625976562
+            ]
+        }
+    ]
+}

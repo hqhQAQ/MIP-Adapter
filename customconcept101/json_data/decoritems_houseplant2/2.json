@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small potted plant with pink flowers on a porch",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.54,
+            "box": [
+                242.7408447265625,
+                136.3662567138672,
+                561.6346435546875,
+                618.3416137695312
+            ]
+        }
+    ]
+}

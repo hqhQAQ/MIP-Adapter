@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small toy that is sitting on a towel",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "unicorn",
+            "logit": 0.62,
+            "box": [
+                299.0063171386719,
+                347.6617126464844,
+                488.24908447265625,
+                609.04638671875
+            ]
+        }
+    ]
+}

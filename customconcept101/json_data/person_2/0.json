@@ -1,0 +1,20 @@
+{
+    "caption": "arafed man with a black shirt and a city in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "person",
+            "logit": 0.92,
+            "box": [
+                0.865570068359375,
+                35.430572509765625,
+                796.2960205078125,
+                798.701171875
+            ]
+        }
+    ]
+}

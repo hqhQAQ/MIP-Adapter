@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a red purse with a bottle of perfume",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.42,
+            "box": [
+                122.11264038085938,
+                124.03787231445312,
+                761.1182861328125,
+                670.5556640625
+            ]
+        }
+    ]
+}

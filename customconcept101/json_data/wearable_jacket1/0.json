@@ -1,0 +1,20 @@
+{
+    "caption": "arafed woman in a white jacket and black top holding a cell phone",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.92,
+            "box": [
+                0.99658203125,
+                0.68304443359375,
+                782.962158203125,
+                798.5370483398438
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a barn in the middle of a field with mountains in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "barn",
+            "logit": 0.95,
+            "box": [
+                36.847991943359375,
+                275.80963134765625,
+                703.61865234375,
+                533.0894775390625
+            ]
+        }
+    ]
+}

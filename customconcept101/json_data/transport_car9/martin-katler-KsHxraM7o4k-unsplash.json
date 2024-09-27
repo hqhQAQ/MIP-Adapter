@@ -1,0 +1,31 @@
+{
+    "caption": "arafed black two car parked in front of a building on a rainy day",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.89,
+            "box": [
+                78.1943359375,
+                458.0052490234375,
+                692.3258056640625,
+                709.4798583984375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "car",
+            "logit": 0.26,
+            "box": [
+                -0.002979278564453125,
+                513.642333984375,
+                106.25404357910156,
+                649.6170654296875
+            ]
+        }
+    ]
+}

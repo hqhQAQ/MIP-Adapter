@@ -1,0 +1,20 @@
+{
+    "caption": "arafed bicycle parked in front of a rock wall with a fern plant",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bike",
+            "logit": 0.95,
+            "box": [
+                76.72833251953125,
+                83.06732177734375,
+                1028.919921875,
+                712.859130859375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed rabbit that is sitting on a shelf",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bunny",
+            "logit": 0.87,
+            "box": [
+                104.43429565429688,
+                111.12155151367188,
+                644.2232666015625,
+                797.015625
+            ]
+        }
+    ]
+}

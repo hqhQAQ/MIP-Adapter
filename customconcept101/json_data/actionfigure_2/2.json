@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a harry potter figurine on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "actionfigure",
+            "logit": 0.72,
+            "box": [
+                222.83238220214844,
+                201.23841857910156,
+                566.6243286132812,
+                688.9583740234375
+            ]
+        }
+    ]
+}

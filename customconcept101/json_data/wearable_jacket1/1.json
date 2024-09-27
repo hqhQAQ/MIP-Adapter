@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a white jacket hanging on a wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.9,
+            "box": [
+                38.2613525390625,
+                0.565826416015625,
+                755.3624267578125,
+                798.308349609375
+            ]
+        }
+    ]
+}

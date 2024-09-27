@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two purse with a zipper on it sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "purse",
+            "logit": 0.81,
+            "box": [
+                1.1707763671875,
+                76.59841918945312,
+                659.2604370117188,
+                776.63427734375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "purse",
+            "logit": 0.26,
+            "box": [
+                0.4702606201171875,
+                0.3044586181640625,
+                175.25401306152344,
+                326.4012451171875
+            ]
+        }
+    ]
+}

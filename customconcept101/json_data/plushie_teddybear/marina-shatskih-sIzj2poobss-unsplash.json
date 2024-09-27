@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear sitting in the sand on the beach",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "teddybear",
+            "logit": 0.89,
+            "box": [
+                225.57339477539062,
+                140.05213928222656,
+                726.2896728515625,
+                647.873291015625
+            ]
+        }
+    ]
+}

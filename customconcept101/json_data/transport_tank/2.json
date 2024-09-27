@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small metal train on a laptop keyboard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tank",
+            "logit": 0.57,
+            "box": [
+                57.93353271484375,
+                55.903900146484375,
+                713.54052734375,
+                782.436767578125
+            ]
+        }
+    ]
+}

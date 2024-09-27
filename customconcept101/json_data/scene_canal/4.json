@@ -1,0 +1,20 @@
+{
+    "caption": "trees are reflected in the water of a river in a city",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "canal",
+            "logit": 0.88,
+            "box": [
+                0.873382568359375,
+                484.9375,
+                981.2318115234375,
+                798.28125
+            ]
+        }
+    ]
+}

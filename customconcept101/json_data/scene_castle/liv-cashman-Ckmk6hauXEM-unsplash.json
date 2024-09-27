@@ -1,0 +1,20 @@
+{
+    "caption": "there is a tall tower with a clock on the top of it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "castle",
+            "logit": 0.95,
+            "box": [
+                109.54544067382812,
+                0.49041748046875,
+                713.3829345703125,
+                783.48779296875
+            ]
+        }
+    ]
+}

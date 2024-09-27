@@ -1,0 +1,20 @@
+{
+    "caption": "bmw car parked on cobblestone road in front of a building",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                177.64358520507812,
+                441.06634521484375,
+                590.5947265625,
+                681.2095336914062
+            ]
+        }
+    ]
+}

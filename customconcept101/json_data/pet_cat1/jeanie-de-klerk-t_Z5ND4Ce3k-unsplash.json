@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is standing on a set of stairs",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.95,
+            "box": [
+                98.830078125,
+                162.71630859375,
+                723.4246826171875,
+                705.0629272460938
+            ]
+        }
+    ]
+}

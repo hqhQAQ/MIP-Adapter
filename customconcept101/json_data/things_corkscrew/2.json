@@ -1,0 +1,20 @@
+{
+    "caption": "there is a knife that is sitting on top of a bowl",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "corkscrew",
+            "logit": 0.44,
+            "box": [
+                128.21160888671875,
+                1.277557373046875,
+                799.032470703125,
+                521.7545166015625
+            ]
+        }
+    ]
+}

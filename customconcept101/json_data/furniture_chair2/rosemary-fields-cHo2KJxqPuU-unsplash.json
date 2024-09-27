@@ -1,0 +1,31 @@
+{
+    "caption": "there is a hanging two chair with a plant in it next to a window",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "chair",
+            "logit": 0.72,
+            "box": [
+                230.24826049804688,
+                16.58990478515625,
+                762.5831298828125,
+                795.7279052734375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "chair",
+            "logit": 0.31,
+            "box": [
+                103.32914733886719,
+                558.7505493164062,
+                373.69171142578125,
+                801.236083984375
+            ]
+        }
+    ]
+}

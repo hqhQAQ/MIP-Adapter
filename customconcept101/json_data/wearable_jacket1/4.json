@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a white jacket with black trims on a hanger",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "jacket",
+            "logit": 0.94,
+            "box": [
+                1.022674560546875,
+                15.756103515625,
+                749.1544189453125,
+                798.4261474609375
+            ]
+        }
+    ]
+}

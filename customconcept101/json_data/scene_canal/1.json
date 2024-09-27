@@ -1,0 +1,20 @@
+{
+    "caption": "arafed view of a city with a river and a bridge",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "canal",
+            "logit": 0.86,
+            "box": [
+                0.87457275390625,
+                503.62835693359375,
+                1064.8916015625,
+                798.4596557617188
+            ]
+        }
+    ]
+}

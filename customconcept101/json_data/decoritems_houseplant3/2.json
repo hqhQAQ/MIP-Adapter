@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small plant in a pot on a balcony",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.83,
+            "box": [
+                203.439208984375,
+                290.28594970703125,
+                533.9462890625,
+                706.27001953125
+            ]
+        }
+    ]
+}

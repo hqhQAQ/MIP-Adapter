@@ -1,0 +1,20 @@
+{
+    "caption": "guitar shaped like a cartoon character sitting on a couch",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "music",
+            "logit": 0.88,
+            "box": [
+                187.59719848632812,
+                48.620849609375,
+                466.6584167480469,
+                866.04931640625
+            ]
+        }
+    ]
+}

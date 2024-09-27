@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a marshall amp sitting on a counter",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "instrument",
+            "logit": 0.93,
+            "box": [
+                23.77386474609375,
+                24.898834228515625,
+                893.2289428710938,
+                778.7762451171875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a large christmas tree made of buttons in a courtyard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sculpture",
+            "logit": 0.75,
+            "box": [
+                7.71923828125,
+                16.219146728515625,
+                546.6764526367188,
+                995.5377197265625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "mountains in the background with a barn and a horse in the foreground",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "barn",
+            "logit": 0.95,
+            "box": [
+                56.257720947265625,
+                310.23223876953125,
+                783.77294921875,
+                596.1551513671875
+            ]
+        }
+    ]
+}

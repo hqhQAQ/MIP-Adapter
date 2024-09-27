@@ -1,0 +1,31 @@
+{
+    "caption": "there are two pink two dice sitting on a blue chair",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dice",
+            "logit": 0.77,
+            "box": [
+                364.45245361328125,
+                344.8757629394531,
+                618.2752685546875,
+                617.67431640625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "dice",
+            "logit": 0.77,
+            "box": [
+                132.06332397460938,
+                295.33709716796875,
+                367.45306396484375,
+                553.158447265625
+            ]
+        }
+    ]
+}

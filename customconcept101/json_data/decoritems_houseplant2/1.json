@@ -1,0 +1,31 @@
+{
+    "caption": "there is a small plant in a green flower pot on a plate",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "houseplant",
+            "logit": 0.58,
+            "box": [
+                89.75961303710938,
+                1.005828857421875,
+                796.639892578125,
+                797.3763427734375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "houseplant",
+            "logit": 0.35,
+            "box": [
+                172.52911376953125,
+                203.85032653808594,
+                515.50048828125,
+                642.274658203125
+            ]
+        }
+    ]
+}

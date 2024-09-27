@@ -1,0 +1,20 @@
+{
+    "caption": "araffe stuffed panda bear sitting on top of a laptop computer",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "panda",
+            "logit": 0.71,
+            "box": [
+                66.602294921875,
+                128.47793579101562,
+                729.1727294921875,
+                649.8760986328125
+            ]
+        }
+    ]
+}

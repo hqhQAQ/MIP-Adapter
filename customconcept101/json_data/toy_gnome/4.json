@@ -1,0 +1,20 @@
+{
+    "caption": "there is a purple gnome figurine on a counter top",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "gnome",
+            "logit": 0.91,
+            "box": [
+                258.3894348144531,
+                85.6195068359375,
+                521.757568359375,
+                724.39892578125
+            ]
+        }
+    ]
+}

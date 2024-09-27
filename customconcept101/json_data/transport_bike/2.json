@@ -1,0 +1,20 @@
+{
+    "caption": "arafed bicycle parked on a gravel road next to a rock wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bike",
+            "logit": 0.95,
+            "box": [
+                23.615814208984375,
+                46.7386474609375,
+                770.5206298828125,
+                744.0393676757812
+            ]
+        }
+    ]
+}

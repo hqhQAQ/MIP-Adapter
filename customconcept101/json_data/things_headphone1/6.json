@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of headphones on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.84,
+            "box": [
+                65.75534057617188,
+                71.77886962890625,
+                742.0245361328125,
+                744.7612915039062
+            ]
+        }
+    ]
+}

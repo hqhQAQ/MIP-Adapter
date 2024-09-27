@@ -1,0 +1,20 @@
+{
+    "caption": "arafed orange sports car parked in a forest on a foggy day",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.93,
+            "box": [
+                128.57989501953125,
+                402.4689636230469,
+                665.7911376953125,
+                562.0828247070312
+            ]
+        }
+    ]
+}

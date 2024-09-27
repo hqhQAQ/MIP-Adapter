@@ -1,0 +1,20 @@
+{
+    "caption": "there is a metal model of a train on a wooden table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tank",
+            "logit": 0.73,
+            "box": [
+                58.87127685546875,
+                122.26611328125,
+                748.1412963867188,
+                718.8137817382812
+            ]
+        }
+    ]
+}

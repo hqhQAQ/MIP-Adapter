@@ -1,0 +1,20 @@
+{
+    "caption": "sunglasses on a blanket on a bed with a teddy bear",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "sunglasses",
+            "logit": 0.95,
+            "box": [
+                71.79107666015625,
+                282.79852294921875,
+                729.1136474609375,
+                545.9718017578125
+            ]
+        }
+    ]
+}

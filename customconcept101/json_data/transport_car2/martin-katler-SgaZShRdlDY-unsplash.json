@@ -1,0 +1,20 @@
+{
+    "caption": "audi sports car parked in front of a building on a street",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "car",
+            "logit": 0.85,
+            "box": [
+                147.8002166748047,
+                344.8089599609375,
+                651.9216918945312,
+                752.61572265625
+            ]
+        }
+    ]
+}

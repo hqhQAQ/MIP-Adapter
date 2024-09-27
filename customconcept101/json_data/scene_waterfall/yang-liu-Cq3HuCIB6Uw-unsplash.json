@@ -1,0 +1,31 @@
+{
+    "caption": "there is a two waterfall that is flowing down a hill with a bridge",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "waterfall",
+            "logit": 0.58,
+            "box": [
+                336.79852294921875,
+                127.70889282226562,
+                504.6036376953125,
+                1091.0513916015625
+            ]
+        },
+        {
+            "value": 2,
+            "label": "waterfall",
+            "logit": 0.43,
+            "box": [
+                362.12213134765625,
+                669.1566162109375,
+                504.1372985839844,
+                1089.09619140625
+            ]
+        }
+    ]
+}

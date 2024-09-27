@@ -1,0 +1,31 @@
+{
+    "caption": "there is a blue and yellow toy sitting on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pikachu",
+            "logit": 0.62,
+            "box": [
+                71.49223327636719,
+                150.55889892578125,
+                578.8871459960938,
+                707.7509155273438
+            ]
+        },
+        {
+            "value": 2,
+            "label": "pikachu",
+            "logit": 0.39,
+            "box": [
+                273.97393798828125,
+                150.5802459716797,
+                577.3009033203125,
+                614.3734130859375
+            ]
+        }
+    ]
+}

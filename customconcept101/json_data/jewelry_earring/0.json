@@ -1,0 +1,31 @@
+{
+    "caption": "pair of diamond two earrings on display in black velvet case",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "earring",
+            "logit": 0.58,
+            "box": [
+                7.5906829833984375,
+                32.202484130859375,
+                149.66494750976562,
+                553.526611328125
+            ]
+        },
+        {
+            "value": 2,
+            "label": "earring",
+            "logit": 0.54,
+            "box": [
+                645.3784790039062,
+                9.501373291015625,
+                792.6619262695312,
+                565.6610107421875
+            ]
+        }
+    ]
+}

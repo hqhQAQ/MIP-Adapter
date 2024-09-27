@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of headphones hanging on a door",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "headphone",
+            "logit": 0.89,
+            "box": [
+                96.439453125,
+                88.1082763671875,
+                719.4864501953125,
+                680.9534301757812
+            ]
+        }
+    ]
+}

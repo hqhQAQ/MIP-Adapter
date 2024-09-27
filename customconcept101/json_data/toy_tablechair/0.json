@@ -1,0 +1,42 @@
+{
+    "caption": "there is a blue table and two green chairs in the gravel",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "tablechair",
+            "logit": 0.73,
+            "box": [
+                50.441009521484375,
+                190.35595703125,
+                503.0754089355469,
+                680.038818359375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "tablechair",
+            "logit": 0.72,
+            "box": [
+                492.976318359375,
+                260.64068603515625,
+                1108.8009033203125,
+                742.082763671875
+            ]
+        },
+        {
+            "value": 3,
+            "label": "tablechair",
+            "logit": 0.68,
+            "box": [
+                1053.00048828125,
+                195.30140686035156,
+                1420.90185546875,
+                690.9599609375
+            ]
+        }
+    ]
+}
