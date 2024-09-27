@@ -85,7 +85,7 @@ setuptools==69.5.1
 
 ### Dataset
 
-* Train dataset. Due to the company's strict open source audit system, we can only release part (10k images) of the original training dataset. Nevertheless, the model trained with this small dataset can still achieve the **SOTA performance** (Please refer to Table 1 for more details).
+* **Train dataset.** Due to the company's strict open source audit system, we can only release part (10k images) of the original training dataset. Nevertheless, the model trained with this small dataset can still achieve the **SOTA performance** (Please refer to Table 1 for more details).
 
   Download `subject_dataset_10k.zip` from [Hugging Face](https://huggingface.co/datasets/hqhQAQ/subject_dataset_10k/tree/main). This dataset is constructed from the opensourced SA-1B dataset. Unzip `subject_dataset_10k.zip` to `/PATH/TO/subject_dataset_10k/`. The file structure of this folder is as below:
 
@@ -96,7 +96,7 @@ setuptools==69.5.1
     |--masks
   ```
 
-* Test dataset. We conduct quantitative comparisons of our method with other methods on the [Concept101 dataset](https://github.com/adobe-research/custom-diffusion/tree/main/customconcept101), which is proposed by Custom Diffusion.
+* **Test dataset.** We conduct quantitative comparisons of our method with other methods on the [Concept101 dataset](https://github.com/adobe-research/custom-diffusion/tree/main/customconcept101), which is proposed by Custom Diffusion.
 
   Prepare this dataset in two steps:
 
