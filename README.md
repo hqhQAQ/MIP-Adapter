@@ -14,6 +14,8 @@ This is the official implementation of paper "Resolving Multi-Condition Confusio
 
 Notably, our model can achieve state-of-the-art performance on **Multi-Object Personalized Image Generation** with **only 5 hours** of training time on 8 GPUs.
 
+If you find the resources of this project (e.g., dataset, model weights, training code) helpful, please kindly leave a star here😊.
+
 ### Introduction
 
 Personalized text-to-image generation methods can generate customized images based on the reference images, which have garnered wide research interest.
