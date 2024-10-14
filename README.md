@@ -14,7 +14,7 @@ This is the official implementation of paper "Resolving Multi-Condition Confusio
 
 Notably, our model can achieve state-of-the-art performance on **Multi-Object Personalized Image Generation** with **only 5 hours** of training time on 8 GPUs.
 
-If you find the resources of this project (e.g., dataset, model weights, training code) helpful, please kindly leave a star here😊.
+⭐⭐~If you find the resources of this project (e.g., dataset, model weights, training code) helpful, please kindly leave a star here😊.
 
 ### Introduction
 
@@ -27,6 +27,16 @@ To mitigate object confusion and reduce training costs, we propose an *object qu
 The framework of our method is shown as below:
 
 ![method](./assets/method.svg)
+
+### 🔥🔥🔥 News!!
+
+- 📰 Our paper is available at [arXiv](https://arxiv.org/abs/2409.17920).
+- 🤗 Our training dataset is available at [Hugging Face](https://huggingface.co/datasets/hqhQAQ/subject_dataset_10k/tree/main).
+- 🤗 Our model weights are available at [Hugging Face](https://huggingface.co/hqhQAQ/MIP-Adapter).
+- 🚀 Training code is available here.
+- 🚀 Inference code is available here.
+- 🚀 Evaluation code is available here.
+- 💬 Our preliminary work **MS-Diffusion** for multi-object personalized generation is available at [MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion).
 
 ### Performance
 
@@ -48,15 +58,6 @@ The framework of our method is shown as below:
   | **Ours (sdxl)** [Original dataset] | no-FT | 0.7750 | 0.6943 | 0.4127
   | **Ours (sdxl_plus)** [Small dataset (10k images)] | no-FT | 0.7752 | 0.6924 | 0.4375
   | **Ours (sdxl_plus)** [Original dataset] | no-FT | **0.7765** | 0.6950 | **0.4397**
-
-### Todo List
-
-- [x] Paper
-- [x] Dataset
-- [x] Model weights
-- [x] Training code
-- [x] Inference code
-- [x] Evaluation code
 
 ### Requirements
 
