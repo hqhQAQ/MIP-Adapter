@@ -30,13 +30,15 @@ The framework of our method is shown as below:
 
 ### 🔥🔥🔥 News!!
 
-- 📰 Our paper is available at [arXiv](https://arxiv.org/abs/2409.17920).
-- 🤗 Our training dataset is available at [Hugging Face](https://huggingface.co/datasets/hqhQAQ/subject_dataset_10k/tree/main).
-- 🤗 Our model weights are available at [Hugging Face](https://huggingface.co/hqhQAQ/MIP-Adapter).
-- 🚀 Training code is available here.
-- 🚀 Inference code is available here.
-- 🚀 Evaluation code is available here.
-- 💬 Our preliminary work **MS-Diffusion** for multi-object personalized generation is available at [MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion).
+- 📰 [2024.09.27] Our paper is available at [arXiv](https://arxiv.org/abs/2409.17920).
+- 🤗 [2024.09.27] Our training dataset is available at [Hugging Face](https://huggingface.co/datasets/hqhQAQ/subject_dataset_10k/tree/main).
+- 🤗 [2024.09.27] Our model weights are available at [Hugging Face](https://huggingface.co/hqhQAQ/MIP-Adapter).
+- 🚀 [2024.09.27] Training code is available here.
+- 🚀 [2024.09.27] Inference code is available here.
+- 🚀 [2024.09.27] Evaluation code is available here.
+- 💬 [2024.09.27] Our preliminary work **MS-Diffusion** for multi-object personalized generation is available at [MS-Diffusion](https://github.com/MS-Diffusion/MS-Diffusion).
+- 💬 [2024.12.05] Our follow-up work **PatchDPO** for personalized generation is available at [PatchDPO](https://github.com/hqhQAQ/PatchDPO), which achieves **state-of-the-art** performance on single-object personalized generation, in both quantitative and qualitative evaluation.
+- 💬 [2024.12.10] Our paper is accepted by AAAI 2025!
 
 ### Performance
 
